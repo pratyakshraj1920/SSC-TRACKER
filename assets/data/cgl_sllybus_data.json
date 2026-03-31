@@ -1,0 +1,6960 @@
+[
+  {
+    "name": "Mathematics",
+    "chapters": [
+      {
+        "name": "Number System",
+        "topics": [
+          {
+            "name": "1. Basics of Number System",
+            "subtopics": [
+              {
+                "name": "Natural Numbers"
+              },
+              {
+                "name": "Whole Numbers"
+              },
+              {
+                "name": "Integers"
+              },
+              {
+                "name": "Rational & Irrational Numbers"
+              },
+              {
+                "name": "Real Numbers"
+              },
+              {
+                "name": "Even & Odd Numbers"
+              }
+            ]
+          },
+          {
+            "name": "2. Types of Numbers",
+            "subtopics": [
+              {
+                "name": "Prime Numbers"
+              },
+              {
+                "name": "Composite Numbers"
+              },
+              {
+                "name": "Co-prime Numbers"
+              },
+              {
+                "name": "Twin Primes"
+              },
+              {
+                "name": "Perfect Numbers"
+              },
+              {
+                "name": "Armstrong Numbers"
+              }
+            ]
+          },
+          {
+            "name": "3. Divisibility Rules",
+            "subtopics": [
+              {
+                "name": "Divisibility by 2, 3, 5, 9"
+              },
+              {
+                "name": "Divisibility by 4, 8, 11"
+              },
+              {
+                "name": "Divisibility by 7 (shortcut)"
+              },
+              {
+                "name": "Combined divisibility"
+              }
+            ]
+          },
+          {
+            "name": "4. HCF & LCM",
+            "subtopics": [
+              {
+                "name": "Basic Concept"
+              },
+              {
+                "name": "Finding HCF"
+              },
+              {
+                "name": "Finding LCM"
+              },
+              {
+                "name": "HCF–LCM Relation"
+              },
+              {
+                "name": "Word Problems"
+              }
+            ]
+          },
+          {
+            "name": "5. Factors & Multiples",
+            "subtopics": [
+              {
+                "name": "Factors & Multiples Basics"
+              },
+              {
+                "name": "Number of Factors"
+              },
+              {
+                "name": "Sum of Factors"
+              },
+              {
+                "name": "Product of Factors"
+              }
+            ]
+          },
+          {
+            "name": "6. Remainder & Modular Arithmetic",
+            "subtopics": [
+              {
+                "name": "Basic Remainder Concept"
+              },
+              {
+                "name": "Remainder Theorem"
+              },
+              {
+                "name": "Remainder with Large Powers"
+              },
+              {
+                "name": "Modulo Properties"
+              },
+              {
+                "name": "Remainder when divided by 9/11"
+              }
+            ]
+          },
+          {
+            "name": "7. Unit Digit & Cyclicity",
+            "subtopics": [
+              {
+                "name": "Unit Digit Basics"
+              },
+              {
+                "name": "Cyclicity of Numbers"
+              },
+              {
+                "name": "Last Digit of Powers"
+              },
+              {
+                "name": "Last Two Digits"
+              }
+            ]
+          },
+          {
+            "name": "8. Simplification",
+            "subtopics": [
+              {
+                "name": "BODMAS Rule"
+              },
+              {
+                "name": "Fraction Operations"
+              },
+              {
+                "name": "Decimal Calculations"
+              },
+              {
+                "name": "Surds & Indices (basic level)"
+              }
+            ]
+          },
+          {
+            "name": "9. Digital Root (Shortcut Topic)",
+            "subtopics": [
+              {
+                "name": "Digital Sum"
+              },
+              {
+                "name": "Casting out 9"
+              },
+              {
+                "name": "Fast Calculation Tricks"
+              }
+            ]
+          },
+          {
+            "name": "10. Number Base System",
+            "subtopics": [
+              {
+                "name": "Decimal System"
+              },
+              {
+                "name": "Binary Conversion"
+              },
+              {
+                "name": "Binary Basics"
+              }
+            ]
+          },
+          {
+            "name": "11. Square & Cube Based Questions",
+            "subtopics": [
+              {
+                "name": "Perfect Squares"
+              },
+              {
+                "name": "Perfect Cubes"
+              },
+              {
+                "name": "Square Root Basics"
+              },
+              {
+                "name": "Cube Root Basics"
+              }
+            ]
+          },
+          {
+            "name": "12. Consecutive Numbers",
+            "subtopics": [
+              {
+                "name": "Sum of consecutive numbers"
+              },
+              {
+                "name": "Product of consecutive numbers"
+              },
+              {
+                "name": "Even/Odd consecutive"
+              }
+            ]
+          },
+          {
+            "name": "13. Miscellaneous (Exam Special)",
+            "subtopics": [
+              {
+                "name": "Number properties tricks"
+              },
+              {
+                "name": "Divisibility based puzzles"
+              },
+              {
+                "name": "Mixed concept questions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Simplification",
+        "topics": [
+          {
+            "name": "1. Basic Operations",
+            "subtopics": [
+              {
+                "name": "Addition"
+              },
+              {
+                "name": "Subtraction"
+              },
+              {
+                "name": "Multiplication"
+              },
+              {
+                "name": "Division"
+              }
+            ]
+          },
+          {
+            "name": "2. BODMAS Rule",
+            "subtopics": []
+          },
+          {
+            "name": "3. Fractions",
+            "subtopics": [
+              {
+                "name": "Simplifying Fractions"
+              },
+              {
+                "name": "Addition & Subtraction of Fractions"
+              },
+              {
+                "name": "Multiplication of Fractions"
+              },
+              {
+                "name": "Division of Fractions"
+              },
+              {
+                "name": "Mixed Fractions"
+              }
+            ]
+          },
+          {
+            "name": "4. Decimals",
+            "subtopics": [
+              {
+                "name": "Decimal Addition/Subtraction"
+              },
+              {
+                "name": "Decimal Multiplication"
+              },
+              {
+                "name": "Decimal Division"
+              },
+              {
+                "name": "Conversion (Decimal ↔ Fraction)"
+              }
+            ]
+          },
+          {
+            "name": "5. Surds & Indices (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Laws of Indices"
+              },
+              {
+                "name": "Negative Powers"
+              },
+              {
+                "name": "Fractional Powers"
+              },
+              {
+                "name": "Simplification of Surds"
+              },
+              {
+                "name": "Rationalization"
+              }
+            ]
+          },
+          {
+            "name": "6. Percentage Based Simplification",
+            "subtopics": [
+              {
+                "name": "Converting % to fraction"
+              },
+              {
+                "name": "Simplification using percentages"
+              },
+              {
+                "name": "Quick percentage tricks"
+              }
+            ]
+          },
+          {
+            "name": "7. Approximation (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Rounding off numbers"
+              },
+              {
+                "name": "Approximate calculations"
+              },
+              {
+                "name": "Closest value problems"
+              }
+            ]
+          },
+          {
+            "name": "8. Square & Cube Based Simplification",
+            "subtopics": [
+              {
+                "name": "Squares (1–30 important)"
+              },
+              {
+                "name": "Cubes (1–20 important)"
+              },
+              {
+                "name": "Square roots (approx & exact)"
+              },
+              {
+                "name": "Cube roots"
+              }
+            ]
+          },
+          {
+            "name": "9. Algebraic Identities (Shortcut Gold 🔥)",
+            "subtopics": [
+              {
+                "name": "Basic identities"
+              },
+              {
+                "name": "Advanced identities usage"
+              }
+            ]
+          },
+          {
+            "name": "10. Ratio-Based Simplification",
+            "subtopics": [
+              {
+                "name": "Converting ratio to fraction"
+              },
+              {
+                "name": "Simplifying ratio expressions"
+              }
+            ]
+          },
+          {
+            "name": "11. Mixed Simplification (Exam Level)",
+            "subtopics": [
+              {
+                "name": "Combination of fractions + decimals"
+              },
+              {
+                "name": "Surds + indices mix"
+              },
+              {
+                "name": "BODMAS + identities mix"
+              },
+              {
+                "name": "Previous year pattern questions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Percentage",
+        "topics": [
+          {
+            "name": "1. Basics of Percentage",
+            "subtopics": [
+              {
+                "name": "Fraction ↔ Percentage"
+              },
+              {
+                "name": "Decimal ↔ Percentage"
+              }
+            ]
+          },
+          {
+            "name": "2. Percentage Conversion",
+            "subtopics": [
+              {
+                "name": "Common % to fraction"
+              },
+              {
+                "name": "Fraction to %"
+              }
+            ]
+          },
+          {
+            "name": "3. Percentage Increase & Decrease",
+            "subtopics": []
+          },
+          {
+            "name": "4. Successive Percentage",
+            "subtopics": [
+              {
+                "name": "Two successive change"
+              }
+            ]
+          },
+          {
+            "name": "Election Based Questions",
+            "subtopics": []
+          },
+          {
+            "name": "Dishonest Shopkeeper",
+            "subtopics": []
+          },
+          {
+            "name": "Population / Growth",
+            "subtopics": []
+          },
+          {
+            "name": "Income, Expenditure  and saving",
+            "subtopics": []
+          },
+          {
+            "name": "Marks / Exam Questions",
+            "subtopics": []
+          },
+          {
+            "name": "Production / Efficiency",
+            "subtopics": []
+          },
+          {
+            "name": "Price-consumption-expenditure",
+            "subtopics": []
+          },
+          {
+            "name": "Revenue-expenditure-profit",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "Profit, Loss & Discount",
+        "topics": [
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Cost Price (CP)"
+              },
+              {
+                "name": "Selling Price (SP)"
+              },
+              {
+                "name": "Marked Price (MP)"
+              },
+              {
+                "name": "Profit & Loss basic concept"
+              }
+            ]
+          },
+          {
+            "name": "2. Profit & Loss Formula",
+            "subtopics": [
+              {
+                "name": "Profit % calculation"
+              },
+              {
+                "name": "Loss % calculation"
+              },
+              {
+                "name": "Finding CP / SP"
+              }
+            ]
+          },
+          {
+            "name": "3. Discount Basics",
+            "subtopics": [
+              {
+                "name": "Relation between MP, CP, SP"
+              },
+              {
+                "name": "Finding MP / SP"
+              }
+            ]
+          },
+          {
+            "name": "4. Successive Discount (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Two successive discounts"
+              },
+              {
+                "name": "Multiple discounts"
+              },
+              {
+                "name": "Equivalent discount"
+              }
+            ]
+          },
+          {
+            "name": "5. Marked Price & Profit Relation",
+            "subtopics": [
+              {
+                "name": "Profit after discount"
+              },
+              {
+                "name": "SP after discount"
+              },
+              {
+                "name": "MP–CP relation"
+              }
+            ]
+          },
+          {
+            "name": "Dishonest Shopkeeper (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Using false weights"
+              },
+              {
+                "name": "Selling at CP but gaining %"
+              },
+              {
+                "name": "Profit due to cheating"
+              }
+            ]
+          },
+          {
+            "name": "False Discount / Fake Offer",
+            "subtopics": [
+              {
+                "name": "Marking high MP then giving discount"
+              },
+              {
+                "name": "Net profit after discount"
+              },
+              {
+                "name": "“Buy 1 Get 1” type questions"
+              }
+            ]
+          },
+          {
+            "name": "Successive Profit & Loss",
+            "subtopics": [
+              {
+                "name": "Profit then loss"
+              },
+              {
+                "name": "Loss then profit"
+              },
+              {
+                "name": "Net effect"
+              }
+            ]
+          },
+          {
+            "name": "Selling at Marked Price",
+            "subtopics": [
+              {
+                "name": "Direct MP → SP conversion"
+              },
+              {
+                "name": "Profit % with MP"
+              }
+            ]
+          },
+          {
+            "name": "Profit/Loss on Articles",
+            "subtopics": [
+              {
+                "name": "Multiple items profit"
+              },
+              {
+                "name": "Overall profit/loss"
+              }
+            ]
+          },
+          {
+            "name": "Equal Profit & Loss Cases",
+            "subtopics": [
+              {
+                "name": "Same SP, different CP"
+              },
+              {
+                "name": "Same CP, different SP"
+              }
+            ]
+          },
+          {
+            "name": "Percentage + Profit/Loss Mix",
+            "subtopics": [
+              {
+                "name": "Profit % increase"
+              },
+              {
+                "name": "Discount + Profit mix"
+              }
+            ]
+          },
+          {
+            "name": "Ratio + Profit/Loss Mix",
+            "subtopics": [
+              {
+                "name": "Ratio of CP & SP"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Simple Interest & Compound Interest",
+        "topics": [
+          {
+            "name": "1. Simple Interest (SI)",
+            "subtopics": [
+              {
+                "name": "Principal (P), Rate of Interest (R), Time (T), Amount (A)"
+              }
+            ]
+          },
+          {
+            "name": "SI Formula",
+            "subtopics": [
+              {
+                "name": "Finding SI, Finding Principal, Finding Rate, Finding Time"
+              }
+            ]
+          },
+          {
+            "name": "SI Based Concepts",
+            "subtopics": [
+              {
+                "name": "Constant interest concept"
+              },
+              {
+                "name": "Year-wise interest calculation"
+              },
+              {
+                "name": "Relation between SI & Amount"
+              }
+            ]
+          },
+          {
+            "name": "SI Installment",
+            "subtopics": []
+          },
+          {
+            "name": "2. Compound Interest (CI)",
+            "subtopics": []
+          },
+          {
+            "name": "Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Compound Interest meaning"
+              },
+              {
+                "name": "Difference between SI & CI"
+              },
+              {
+                "name": "Compounding (yearly, half-yearly, quarterly)"
+              }
+            ]
+          },
+          {
+            "name": "CI Formula",
+            "subtopics": [
+              {
+                "name": "Finding CI, Finding Amount, Finding Rate/Time"
+              }
+            ]
+          },
+          {
+            "name": "Compounding Variations",
+            "subtopics": [
+              {
+                "name": "Half-yearly compounding"
+              },
+              {
+                "name": "Quarterly compounding"
+              },
+              {
+                "name": "Changing rate of interest"
+              }
+            ]
+          },
+          {
+            "name": "⚖️ Difference Between SI & CI (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Difference for 2 years"
+              },
+              {
+                "name": "Difference for 3 years"
+              }
+            ]
+          },
+          {
+            "name": "🔄 SI vs CI Comparison",
+            "subtopics": [
+              {
+                "name": "Same P, R, T comparison"
+              },
+              {
+                "name": "CI always greater than SI concept"
+              }
+            ]
+          },
+          {
+            "name": "📈 Successive Growth Type (CI Logic)",
+            "subtopics": []
+          },
+          {
+            "name": "🧾 Installment / Loan Based (CI)",
+            "subtopics": []
+          },
+          {
+            "name": "🔁 Changing Rate Questions",
+            "subtopics": [
+              {
+                "name": "Different rate for different years"
+              }
+            ]
+          },
+          {
+            "name": "Average",
+            "subtopics": []
+          },
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": []
+          },
+          {
+            "name": "Basic Formula",
+            "subtopics": []
+          },
+          {
+            "name": "2. Types of Average",
+            "subtopics": []
+          },
+          {
+            "name": "Change in Average (Very Important 🔥🔥)",
+            "subtopics": []
+          },
+          {
+            "name": "Combined Average",
+            "subtopics": []
+          },
+          {
+            "name": "Age Based Questions",
+            "subtopics": []
+          },
+          {
+            "name": "Marks Based Questions",
+            "subtopics": []
+          },
+          {
+            "name": "Income / Salary Based",
+            "subtopics": []
+          },
+          {
+            "name": "Runs / Score Based",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "Time & Work",
+        "topics": [
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Individual work calculation"
+              }
+            ]
+          },
+          {
+            "name": "Basic Formula",
+            "subtopics": [
+              {
+                "name": "Finding time"
+              },
+              {
+                "name": "Finding efficiency"
+              },
+              {
+                "name": "Finding total work"
+              }
+            ]
+          },
+          {
+            "name": "2. Efficiency Concept (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Efficiency meaning"
+              },
+              {
+                "name": "Work rate comparison"
+              },
+              {
+                "name": "More efficiency → less time relation"
+              },
+              {
+                "name": "Ratio based efficiency"
+              },
+              {
+                "name": "Conversion (time ↔ efficiency)"
+              }
+            ]
+          },
+          {
+            "name": "3. Work by Multiple Persons",
+            "subtopics": [
+              {
+                "name": "A + B working together"
+              },
+              {
+                "name": "A, B, C combined work"
+              },
+              {
+                "name": "Individual vs combined work"
+              }
+            ]
+          },
+          {
+            "name": "4. Work & Wages",
+            "subtopics": [
+              {
+                "name": "Wages distribution"
+              },
+              {
+                "name": "Work ratio → wage ratio"
+              },
+              {
+                "name": "Partial work payment"
+              }
+            ]
+          },
+          {
+            "name": "A + B + C Work Together concept",
+            "subtopics": []
+          },
+          {
+            "name": "Alternate Work (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "A works one day, B next day"
+              },
+              {
+                "name": "Repeating pattern work"
+              }
+            ]
+          },
+          {
+            "name": "Work Leaving in Between",
+            "subtopics": [
+              {
+                "name": "One person leaves work"
+              },
+              {
+                "name": "New person joins"
+              },
+              {
+                "name": "Remaining work calculation"
+              }
+            ]
+          },
+          {
+            "name": "Partial Work / Remaining Work",
+            "subtopics": [
+              {
+                "name": "Work completed in parts"
+              },
+              {
+                "name": "Remaining time"
+              }
+            ]
+          },
+          {
+            "name": "Efficiency Comparison",
+            "subtopics": [
+              {
+                "name": "A is x times efficient than B"
+              },
+              {
+                "name": "Ratio based questions"
+              }
+            ]
+          },
+          {
+            "name": "Work & Wages Based",
+            "subtopics": [
+              {
+                "name": "Payment division"
+              },
+              {
+                "name": "Work done ratio"
+              }
+            ]
+          },
+          {
+            "name": "Pipe & Cistern (Same Concept 🔥)",
+            "subtopics": [
+              {
+                "name": "Filling pipes"
+              },
+              {
+                "name": "Emptying pipes"
+              },
+              {
+                "name": "Net work done"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Time, Speed & Distance",
+        "topics": [
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Distance, Speed, Time, Units (km/hr, m/s conversion)"
+              }
+            ]
+          },
+          {
+            "name": "Basic Formula",
+            "subtopics": [
+              {
+                "name": "Finding speed, Finding distance, Finding time"
+              }
+            ]
+          },
+          {
+            "name": "2. Unit Conversion (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "km/hr → m/s"
+              },
+              {
+                "name": "m/s → km/hr"
+              }
+            ]
+          },
+          {
+            "name": "3. Average Speed (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Same distance cases with different speed (2 speed, 3 speed formula)"
+              },
+              {
+                "name": "Different distance cases"
+              },
+              {
+                "name": "Round trip problems"
+              }
+            ]
+          },
+          {
+            "name": "4. Relative Speed",
+            "subtopics": [
+              {
+                "name": "Same direction"
+              },
+              {
+                "name": "Opposite direction"
+              }
+            ]
+          },
+          {
+            "name": "Trains (Very Important 🔥🔥)",
+            "subtopics": [
+              {
+                "name": "Train crossing pole"
+              },
+              {
+                "name": "Train crossing platform"
+              },
+              {
+                "name": "Train crossing another train"
+              },
+              {
+                "name": "Length of train/platform"
+              },
+              {
+                "name": "Person crossing train"
+              },
+              {
+                "name": "Object crossing"
+              }
+            ]
+          },
+          {
+            "name": "Relative Motion",
+            "subtopics": [
+              {
+                "name": "Two persons moving"
+              },
+              {
+                "name": "Catching up problems (Police and thief)"
+              },
+              {
+                "name": "Overtaking"
+              }
+            ]
+          },
+          {
+            "name": "Linear Race",
+            "subtopics": [
+              {
+                "name": "Winning by Distance"
+              },
+              {
+                "name": "Winning by Time"
+              },
+              {
+                "name": "Ratio Based Race"
+              },
+              {
+                "name": "Head Start"
+              },
+              {
+                "name": "Equal Distance / Equal Time Concept"
+              }
+            ]
+          },
+          {
+            "name": "Boats & Streams",
+            "subtopics": []
+          },
+          {
+            "name": "⏱️ Time Based Questions",
+            "subtopics": [
+              {
+                "name": "Time taken upstream"
+              },
+              {
+                "name": "Time taken downstream"
+              },
+              {
+                "name": "Total journey time"
+              }
+            ]
+          },
+          {
+            "name": "📏 Distance Based Questions",
+            "subtopics": [
+              {
+                "name": "Same distance upstream & downstream"
+              },
+              {
+                "name": "Different distances"
+              }
+            ]
+          },
+          {
+            "name": "⚖️ Finding Boat & Stream Speed (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Given upstream & downstream speeds"
+              },
+              {
+                "name": "Find b and s"
+              }
+            ]
+          },
+          {
+            "name": "Time & Distance Based Problems",
+            "subtopics": [
+              {
+                "name": "Speed increase/decrease"
+              },
+              {
+                "name": "Late/early arrival"
+              },
+              {
+                "name": "Time difference"
+              }
+            ]
+          },
+          {
+            "name": "Circular Track (Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Two persons on circular path"
+              },
+              {
+                "name": "Meeting points"
+              },
+              {
+                "name": "Opposite/same direction"
+              }
+            ]
+          },
+          {
+            "name": "🚶 Man, Train & Object Problems",
+            "subtopics": [
+              {
+                "name": "Person crossing train"
+              },
+              {
+                "name": "Object crossing"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ratio & Proportion",
+        "topics": [
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Meaning of Ratio"
+              },
+              {
+                "name": "Simplifying Ratio"
+              },
+              {
+                "name": "Equivalent Ratios"
+              },
+              {
+                "name": "Comparison of Ratios"
+              }
+            ]
+          },
+          {
+            "name": "Basic Formula",
+            "subtopics": [
+              {
+                "name": "Converting ratio to fraction"
+              },
+              {
+                "name": "Converting fraction to ratio"
+              }
+            ]
+          },
+          {
+            "name": "2. Proportion Concept",
+            "subtopics": [
+              {
+                "name": "Meaning of Proportion"
+              },
+              {
+                "name": "Direct proportion"
+              },
+              {
+                "name": "Inverse proportion"
+              }
+            ]
+          },
+          {
+            "name": "Proportion Formula",
+            "subtopics": [
+              {
+                "name": "a:b=c:d⇒ad=bc"
+              },
+              {
+                "name": "Finding missing term"
+              },
+              {
+                "name": "Cross multiplication"
+              }
+            ]
+          },
+          {
+            "name": "3. Variation (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Direct variation"
+              },
+              {
+                "name": "Inverse variation"
+              },
+              {
+                "name": "Combined variation"
+              }
+            ]
+          },
+          {
+            "name": "4. Ratio Conversion",
+            "subtopics": [
+              {
+                "name": "Ratio → Percentage"
+              },
+              {
+                "name": "Percentage → Ratio"
+              },
+              {
+                "name": "Ratio → Fraction"
+              }
+            ]
+          },
+          {
+            "name": "Distribution of Quantity",
+            "subtopics": [
+              {
+                "name": "Dividing money/items in ratio"
+              },
+              {
+                "name": "Sharing problems"
+              }
+            ]
+          },
+          {
+            "name": "Partnership (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Profit sharing"
+              },
+              {
+                "name": "Time + investment concept"
+              },
+              {
+                "name": "Ratio of investment"
+              }
+            ]
+          },
+          {
+            "name": "Ages Based Questions",
+            "subtopics": [
+              {
+                "name": "Present age ratio"
+              },
+              {
+                "name": "Past/future age ratio"
+              }
+            ]
+          },
+          {
+            "name": "Income & Expenditure",
+            "subtopics": [
+              {
+                "name": "Salary ratio"
+              },
+              {
+                "name": "Saving ratio"
+              }
+            ]
+          },
+          {
+            "name": "Chain Rule (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Multiple variables relation"
+              },
+              {
+                "name": "Work-time-wage relation"
+              }
+            ]
+          },
+          {
+            "name": "Comparison Problems",
+            "subtopics": [
+              {
+                "name": "Comparing quantities"
+              },
+              {
+                "name": "Ratio increase/decrease"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mixture & Alligation",
+        "topics": [
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Mixture meaning"
+              },
+              {
+                "name": "Ratio of ingredients"
+              },
+              {
+                "name": "Mean price / average value"
+              }
+            ]
+          },
+          {
+            "name": "2. Alligation Rule (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Rule of alligation"
+              },
+              {
+                "name": "Cross difference method"
+              },
+              {
+                "name": "Fast calculation"
+              }
+            ]
+          },
+          {
+            "name": "3. Types of Mixture",
+            "subtopics": [
+              {
+                "name": "Price based mixture (milk, rice, etc.)"
+              },
+              {
+                "name": "Percentage based mixture"
+              },
+              {
+                "name": "Ratio based mixture"
+              }
+            ]
+          },
+          {
+            "name": "Mixing Two Items (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Two different prices"
+              },
+              {
+                "name": "Find ratio of mixing"
+              }
+            ]
+          },
+          {
+            "name": "Replacement Problems (Very Important 🔥🔥)",
+            "subtopics": [
+              {
+                "name": "Repeated replacement"
+              },
+              {
+                "name": "Final concentration find"
+              }
+            ]
+          },
+          {
+            "name": "Water & Milk Type Questions",
+            "subtopics": [
+              {
+                "name": "Milk-water ratio"
+              },
+              {
+                "name": "Adding water"
+              },
+              {
+                "name": "Removing mixture"
+              }
+            ]
+          },
+          {
+            "name": "Mean Price Problems",
+            "subtopics": [
+              {
+                "name": "Average cost calculation"
+              },
+              {
+                "name": "Profit with mixture"
+              }
+            ]
+          },
+          {
+            "name": "Ratio Based Mixture",
+            "subtopics": [
+              {
+                "name": "Given ratio → find quantity"
+              },
+              {
+                "name": "Changing ratio"
+              }
+            ]
+          },
+          {
+            "name": "Percentage Based Mixture",
+            "subtopics": [
+              {
+                "name": "Concentration %"
+              },
+              {
+                "name": "Increase/decrease in %"
+              }
+            ]
+          },
+          {
+            "name": "Multiple Mixture (Advanced)",
+            "subtopics": [
+              {
+                "name": "More than 2 items"
+              },
+              {
+                "name": "Stepwise mixing"
+              }
+            ]
+          },
+          {
+            "name": "Special Concepts",
+            "subtopics": []
+          },
+          {
+            "name": "Alligation Diagram (Shortcut 🔥)",
+            "subtopics": [
+              {
+                "name": "Cross method solving"
+              }
+            ]
+          },
+          {
+            "name": "Constant Quantity Concept",
+            "subtopics": [
+              {
+                "name": "Total quantity fix (pulp based question)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Trigonometry",
+        "topics": [
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Right-angled triangle basics"
+              },
+              {
+                "name": "Sides (Perpendicular, Base, Hypotenuse)"
+              },
+              {
+                "name": "Triplets"
+              }
+            ]
+          },
+          {
+            "name": "Basic Trigonometric Ratios",
+            "subtopics": []
+          },
+          {
+            "name": "4. Standard Values (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Values of sin, cos, tan (0°, 30°, 45°, 60°, 90°)"
+              },
+              {
+                "name": "Reciprocal values"
+              }
+            ]
+          },
+          {
+            "name": "5. Trigonometric Identities (Very Important 🔥🔥)",
+            "subtopics": [
+              {
+                "name": "Basic Identity (Sin θ, cos θ, Tan θ, Cot θ 4 basic 3 formula)"
+              },
+              {
+                "name": "Other Identities (30-40 formula)"
+              }
+            ]
+          },
+          {
+            "name": "6. Complementary Angles",
+            "subtopics": [
+              {
+                "name": "sin(90° − θ) = cos θ"
+              },
+              {
+                "name": "cos(90° − θ) = sin θ"
+              },
+              {
+                "name": "tan(90° − θ) = cot θ"
+              }
+            ]
+          },
+          {
+            "name": "Identity Based Questions (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Simplify expressions, Prove identity, Find value"
+              },
+              {
+                "name": "Direct value based, Mixed expressions"
+              }
+            ]
+          },
+          {
+            "name": "Complementary Angle Questions",
+            "subtopics": [
+              {
+                "name": "Convert and solve"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Height & Distance",
+        "topics": [
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Line of sight, Angle of elevation, Angle of depression, Horizontal & vertical line"
+              }
+            ]
+          },
+          {
+            "name": "Core Concept",
+            "subtopics": [
+              {
+                "name": "Right-angled triangle formation"
+              },
+              {
+                "name": "Real-life → triangle conversion"
+              }
+            ]
+          },
+          {
+            "name": "2. Trigonometric Application",
+            "subtopics": []
+          },
+          {
+            "name": "Basic Relation -tan⁡θ=\"Height\" /\"Base\"",
+            "subtopics": [
+              {
+                "name": "Finding height, Finding distance, Using sin, cos, tan"
+              }
+            ]
+          },
+          {
+            "name": "3. Diagram Understanding (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Tower problems diagram"
+              },
+              {
+                "name": "Shadow problems"
+              },
+              {
+                "name": "Observer & object positioning"
+              },
+              {
+                "name": "Height of tower, Distance from tower"
+              },
+              {
+                "name": "Single angle questions"
+              }
+            ]
+          },
+          {
+            "name": "Two Angles of Elevation",
+            "subtopics": [
+              {
+                "name": "Different positions, same object"
+              },
+              {
+                "name": "Finding height using 2 angles"
+              }
+            ]
+          },
+          {
+            "name": "Moving Observer",
+            "subtopics": [
+              {
+                "name": "Person moves closer/farther"
+              },
+              {
+                "name": "Change in angle"
+              },
+              {
+                "name": "Find height/distance"
+              }
+            ]
+          },
+          {
+            "name": "Angle of Depression (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Observer at height, Looking downward, Same angle concept as elevation"
+              }
+            ]
+          },
+          {
+            "name": "Shadow Problems",
+            "subtopics": [
+              {
+                "name": "Height of object using shadow"
+              },
+              {
+                "name": "Sun angle concept"
+              }
+            ]
+          },
+          {
+            "name": "Two Objects Problems",
+            "subtopics": [
+              {
+                "name": "Height comparison and Distance between objects"
+              }
+            ]
+          },
+          {
+            "name": "Standard Angle Use",
+            "subtopics": [
+              {
+                "name": "°, 45°, 60° based solving"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Algebra",
+        "topics": [
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Variables & constants"
+              },
+              {
+                "name": "Algebraic expressions"
+              },
+              {
+                "name": "Terms (monomial, binomial, polynomial)"
+              },
+              {
+                "name": "Degree of expression"
+              }
+            ]
+          },
+          {
+            "name": "2. Algebraic Identities (Very Important 🔥🔥)",
+            "subtopics": [
+              {
+                "name": "Basic Identities"
+              },
+              {
+                "name": "Advanced identities"
+              },
+              {
+                "name": "Identity application"
+              }
+            ]
+          },
+          {
+            "name": "3. Linear Equations",
+            "subtopics": [
+              {
+                "name": "One variable equations"
+              },
+              {
+                "name": "Two variable equations"
+              },
+              {
+                "name": "Solving simultaneous equations"
+              }
+            ]
+          },
+          {
+            "name": "4. Quadratic Equations (Very Important 🔥)",
+            "subtopics": []
+          },
+          {
+            "name": "Standard Form( ax^2+bx+c=0)",
+            "subtopics": []
+          },
+          {
+            "name": "Quadratic Formula x=(-b±√(b^2-4ac))/2a",
+            "subtopics": [
+              {
+                "name": "Discriminant based question"
+              },
+              {
+                "name": "Finding roots"
+              },
+              {
+                "name": "Nature of roots"
+              },
+              {
+                "name": "Sum & product of roots"
+              }
+            ]
+          },
+          {
+            "name": "5. Inequalities",
+            "subtopics": [
+              {
+                "name": "Linear inequalities, Solving inequalities, Range of values"
+              }
+            ]
+          },
+          {
+            "name": "6. Surds & Indices (Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Laws of indices, Simplification, Rationalization"
+              }
+            ]
+          },
+          {
+            "name": "Identity Based Questions (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Simplification using identities, Value finding"
+              }
+            ]
+          },
+          {
+            "name": "Equation Solving",
+            "subtopics": [
+              {
+                "name": "Linear equation problems, Simultaneous equations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mensuration",
+        "topics": [
+          {
+            "name": "1. 2D Mensuration (Plane Figures)",
+            "subtopics": []
+          },
+          {
+            "name": "Square",
+            "subtopics": [
+              {
+                "name": "Area, Perimeter, Diagonal"
+              }
+            ]
+          },
+          {
+            "name": "Rectangle",
+            "subtopics": [
+              {
+                "name": "Area, Perimeter, Diagonal"
+              }
+            ]
+          },
+          {
+            "name": "Triangle (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Area of triangle, Heron’s formula, perimeter"
+              },
+              {
+                "name": "Equilateral triangle area, isosceles triangle area and their height"
+              }
+            ]
+          },
+          {
+            "name": "Circle (Very Important 🔥🔥)",
+            "subtopics": [
+              {
+                "name": "Area of circle"
+              },
+              {
+                "name": "Circumference"
+              },
+              {
+                "name": "Sector & segment"
+              }
+            ]
+          },
+          {
+            "name": "Parallelogram / Rhombus / Trapezium",
+            "subtopics": [
+              {
+                "name": "Area formulas, Properties"
+              }
+            ]
+          },
+          {
+            "name": "2. 3D Mensuration (Solid Figures)",
+            "subtopics": []
+          },
+          {
+            "name": "Cube",
+            "subtopics": [
+              {
+                "name": "Volume, Surface area, Face diagonal and body diagonal"
+              }
+            ]
+          },
+          {
+            "name": "Cuboid",
+            "subtopics": [
+              {
+                "name": "Volume, Surface area, Face diagonal and body diagonal"
+              }
+            ]
+          },
+          {
+            "name": "Cylinder (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Volume , Curved surface area, Total surface area"
+              }
+            ]
+          },
+          {
+            "name": "Cone (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Volume, Slant height, Surface area"
+              }
+            ]
+          },
+          {
+            "name": "Sphere (Very Important 🔥🔥)",
+            "subtopics": [
+              {
+                "name": "Volume, Surface area"
+              }
+            ]
+          },
+          {
+            "name": "Hemisphere",
+            "subtopics": [
+              {
+                "name": "Volume, Surface area"
+              }
+            ]
+          },
+          {
+            "name": "Frustum",
+            "subtopics": [
+              {
+                "name": "Area, volume, height and slant height"
+              }
+            ]
+          },
+          {
+            "name": "Pyramid and Prism",
+            "subtopics": [
+              {
+                "name": "Area, volume"
+              }
+            ]
+          },
+          {
+            "name": "Volume Based Questions (Very Important 🔥🔥)",
+            "subtopics": [
+              {
+                "name": "Find volume"
+              },
+              {
+                "name": "Compare volumes"
+              },
+              {
+                "name": "Ratio of volumes"
+              }
+            ]
+          },
+          {
+            "name": "Change in Dimensions",
+            "subtopics": [
+              {
+                "name": "Increase/decrease in side"
+              },
+              {
+                "name": "Effect on area/volume"
+              }
+            ]
+          },
+          {
+            "name": "Combination of Solids (Very Important 🔥)",
+            "subtopics": [
+              {
+                "name": "Cone + cylinder"
+              },
+              {
+                "name": "Sphere + cylinder"
+              }
+            ]
+          },
+          {
+            "name": "Water Filling / Tank Problems",
+            "subtopics": [
+              {
+                "name": "Filling tank"
+              },
+              {
+                "name": "Emptying tank"
+              },
+              {
+                "name": "Volume relation"
+              }
+            ]
+          },
+          {
+            "name": "Melting & Reshaping (Very Important 🔥🔥)",
+            "subtopics": [
+              {
+                "name": "Solid melted into another shape"
+              },
+              {
+                "name": "Volume constant concept"
+              }
+            ]
+          },
+          {
+            "name": "Surface Area Questions",
+            "subtopics": [
+              {
+                "name": "Painting cost"
+              },
+              {
+                "name": "Covering surface"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Geometry",
+        "topics": [
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Point, Line, Ray"
+              },
+              {
+                "name": "Line segment"
+              },
+              {
+                "name": "Types of angles"
+              },
+              {
+                "name": "Parallel lines & transversal"
+              }
+            ]
+          },
+          {
+            "name": "2. Angles & Their Properties",
+            "subtopics": [
+              {
+                "name": "Complementary angles"
+              },
+              {
+                "name": "Supplementary angles"
+              },
+              {
+                "name": "Vertically opposite angles"
+              },
+              {
+                "name": "Linear pair"
+              }
+            ]
+          },
+          {
+            "name": "Triangle",
+            "subtopics": []
+          },
+          {
+            "name": "1. Triangle Basics",
+            "subtopics": [
+              {
+                "name": "Types of triangles, Angle sum property, Exterior angle property"
+              }
+            ]
+          },
+          {
+            "name": "Circumcenter",
+            "subtopics": []
+          },
+          {
+            "name": "Incenter",
+            "subtopics": []
+          },
+          {
+            "name": "Centroid",
+            "subtopics": []
+          },
+          {
+            "name": "Orthocenter",
+            "subtopics": []
+          },
+          {
+            "name": "Important Triangle Theorems",
+            "subtopics": [
+              {
+                "name": "Pythagoras theorem"
+              },
+              {
+                "name": "Basic proportionality theorem (Thales)"
+              },
+              {
+                "name": "Angle bisector theorem"
+              }
+            ]
+          },
+          {
+            "name": "Similarity (VERY IMPORTANT 🔥🔥)",
+            "subtopics": [
+              {
+                "name": "AA similarity"
+              },
+              {
+                "name": "Ratio of sides"
+              },
+              {
+                "name": "Area ratio"
+              }
+            ]
+          },
+          {
+            "name": "Congruency",
+            "subtopics": [
+              {
+                "name": "SSS, SAS, ASA, RHS"
+              }
+            ]
+          },
+          {
+            "name": "8. Quadrilaterals",
+            "subtopics": [
+              {
+                "name": "Types (square, rectangle, parallelogram, rhombus)"
+              },
+              {
+                "name": "Properties of parallelogram"
+              },
+              {
+                "name": "Diagonal properties"
+              },
+              {
+                "name": "Angle sum property"
+              }
+            ]
+          },
+          {
+            "name": ",Basic Circle Concepts",
+            "subtopics": [
+              {
+                "name": "Radius, Diameter, Chord"
+              },
+              {
+                "name": "Arc & Sector"
+              },
+              {
+                "name": "Secant & Tangent"
+              },
+              {
+                "name": "Interior & Exterior region"
+              },
+              {
+                "name": "Angle in semicircle = 90°"
+              },
+              {
+                "name": "Angles in same segment are equal"
+              },
+              {
+                "name": "Opposite angles of cyclic quadrilateral = 180°"
+              },
+              {
+                "name": "Tangent ⟂ Radius"
+              },
+              {
+                "name": "Equal tangents from external point"
+              }
+            ]
+          },
+          {
+            "name": "Tangent Concepts (Very Important 🔥🔥)",
+            "subtopics": [
+              {
+                "name": "Length of tangent from external point"
+              },
+              {
+                "name": "Two tangents from same point are equal"
+              },
+              {
+                "name": "Tangent–secant theorem"
+              },
+              {
+                "name": "Direct common tangent"
+              },
+              {
+                "name": "Transverse (indirect) common tangent"
+              },
+              {
+                "name": "Distance between centers based problems"
+              },
+              {
+                "name": "Power of a point"
+              },
+              {
+                "name": "Tangent–chord relation"
+              },
+              {
+                "name": "Secant–secant theorem"
+              }
+            ]
+          },
+          {
+            "name": "Mixed Geometry (Circle + Triangle)",
+            "subtopics": [
+              {
+                "name": "Circle inside triangle"
+              },
+              {
+                "name": "Triangle inside circle"
+              }
+            ]
+          },
+          {
+            "name": "Common Tangent Questions (Advanced)",
+            "subtopics": [
+              {
+                "name": "Distance between circles"
+              },
+              {
+                "name": "External/internal tangent"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Coordinate Geometry",
+        "topics": [
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Cartesian plane, Origin (0,0), X-axis & Y-axis, Quadrants (I, II, III, IV) , Sign convention, standard equation of line."
+              }
+            ]
+          },
+          {
+            "name": "2. Distance Formula (\"Distance\"=√((x_2-x_1 )^2+(y_2-y_1 )^2 ┤ ))",
+            "subtopics": [
+              {
+                "name": "Distance between two points"
+              },
+              {
+                "name": "Collinearity check"
+              }
+            ]
+          },
+          {
+            "name": "Section Formula",
+            "subtopics": []
+          },
+          {
+            "name": "Internal Division ((mx_2+nx_1)/(m+n)ⓜ,(my_2+ny_1)/(m+n)) and External formula((mx_2-nx_1)/(m-n)ⓜ,(my_2-ny_1)/(m-n))",
+            "subtopics": []
+          },
+          {
+            "name": "4. Midpoint Formula ((x_1+x_2)/2ⓜ,(y_1+y_2)/2)",
+            "subtopics": []
+          },
+          {
+            "name": "Slope of Line (Very Important 🔥) m=(y_2-y_1)/(x_2-x_1 )",
+            "subtopics": [
+              {
+                "name": "Slope calculation, Parallel lines (same slope), Perpendicular lines (product = -1)"
+              }
+            ]
+          },
+          {
+            "name": "Equation of Line (Very Important 🔥🔥)",
+            "subtopics": [
+              {
+                "name": "Slope-Intercept Form (y=mx+c)"
+              },
+              {
+                "name": "Point-Slope Form"
+              },
+              {
+                "name": "Two-point form"
+              },
+              {
+                "name": "Equation of line passes through two points"
+              },
+              {
+                "name": "Equation of line passes through point and having slope’m’"
+              },
+              {
+                "name": "Equation of line having slope ‘m’ and intercept"
+              },
+              {
+                "name": "Equation of line having x intercept=a and y intercept=b"
+              },
+              {
+                "name": "Equation of line parallel to ax+by+c=0"
+              },
+              {
+                "name": "Equation of line perpendicular to ax+by+c=0"
+              },
+              {
+                "name": "Unique solution, no solution and infinite many solution concept"
+              }
+            ]
+          },
+          {
+            "name": "Intercept concept",
+            "subtopics": []
+          },
+          {
+            "name": "Area of Triangle (\"Area\"=1/2∣x_1 (y_2-y_3)+x_2 (y_3-y_1)+x_3 (y_1-y_2)∣)",
+            "subtopics": [
+              {
+                "name": "Area calculation, Collinearity (area = 0), area using trick"
+              }
+            ]
+          },
+          {
+            "name": "Area of Quadrilateral",
+            "subtopics": []
+          },
+          {
+            "name": "Distance of line ax+by+c=0 from point (p,q)",
+            "subtopics": []
+          },
+          {
+            "name": "Distance between two parallel lines",
+            "subtopics": []
+          },
+          {
+            "name": "Centroid of the triangle with coordinates given",
+            "subtopics": []
+          },
+          {
+            "name": "incentre of a triangle",
+            "subtopics": []
+          },
+          {
+            "name": "Euler’s line",
+            "subtopics": []
+          },
+          {
+            "name": "Equation of circle",
+            "subtopics": [
+              {
+                "name": "Lengeth of tangent from point to circle"
+              }
+            ]
+          },
+          {
+            "name": "Equation of sphere",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "Statistics",
+        "topics": [
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Data meaning, Types of data (Ungrouped / Grouped), Frequency concept, Class interval,"
+              }
+            ]
+          },
+          {
+            "name": "2. Mean (Average) – Very Important 🔥🔥",
+            "subtopics": []
+          },
+          {
+            "name": "3. Median",
+            "subtopics": [
+              {
+                "name": "Median concept, Odd/even data"
+              },
+              {
+                "name": "Formula (Grouped Data) \"Median\"=l+((n/2-cf)/f)h"
+              },
+              {
+                "name": "Finding median from table"
+              }
+            ]
+          },
+          {
+            "name": "4. Mode",
+            "subtopics": [
+              {
+                "name": "Most frequent value"
+              },
+              {
+                "name": "Formula (Grouped Data) \"Mode\"=l+((f_1-f_0)/(2f_1-f_0-f_2 ))h"
+              },
+              {
+                "name": "Mode from frequency table"
+              }
+            ]
+          },
+          {
+            "name": "5. Relation Between Mean, Median, Mode (\"Mode\"=3×\"Median\"-2×\"Mean\" )",
+            "subtopics": []
+          },
+          {
+            "name": "Range and coefficient of range of data",
+            "subtopics": []
+          },
+          {
+            "name": "Standard deviation, mean deviation, mean deviation about mean and median",
+            "subtopics": []
+          },
+          {
+            "name": "Variance, coefficient of variation",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "Data Interpretation (DI)",
+        "topics": [
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Data reading, Units & scale understanding, Approximation basics, Percentage use in DI"
+              }
+            ]
+          },
+          {
+            "name": "2. Types of DI (Very Important 🔥🔥)",
+            "subtopics": [
+              {
+                "name": "Bar Graph"
+              },
+              {
+                "name": "Pie Chart"
+              },
+              {
+                "name": "Line Graph"
+              },
+              {
+                "name": "Table DI"
+              },
+              {
+                "name": "🔀 Mixed Graph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Percentage Based Questions (Very Important 🔥🔥)",
+        "topics": [
+          {
+            "name": "Average Based Questions",
+            "subtopics": []
+          },
+          {
+            "name": "Ratio & Comparison",
+            "subtopics": []
+          },
+          {
+            "name": "Difference Based",
+            "subtopics": []
+          },
+          {
+            "name": "Trend Analysis",
+            "subtopics": []
+          },
+          {
+            "name": "Caselet DI (Paragraph Based)",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "Probability",
+        "topics": [
+          {
+            "name": "1. Basic Concepts",
+            "subtopics": [
+              {
+                "name": "Experiment, Outcome, Sample Space, Event (favourable outcomes)"
+              }
+            ]
+          },
+          {
+            "name": "Basic Formula",
+            "subtopics": [
+              {
+                "name": "Finding probability, Simple problems"
+              }
+            ]
+          },
+          {
+            "name": "2. Types of Events",
+            "subtopics": [
+              {
+                "name": "Sure event (Probability = 1), Impossible event (Probability = 0), Complementary event"
+              }
+            ]
+          },
+          {
+            "name": "Complement Rule P(A^')=1-P(A)",
+            "subtopics": [
+              {
+                "name": "Use in questions"
+              }
+            ]
+          },
+          {
+            "name": "3. Basic Probability Rules",
+            "subtopics": [
+              {
+                "name": "Addition rule (at least one event), Multiplication rule (independent events)"
+              }
+            ]
+          },
+          {
+            "name": "Multiplication Rule",
+            "subtopics": []
+          },
+          {
+            "name": "4. Conditional Probability (Basic SSC Level)",
+            "subtopics": [
+              {
+                "name": "Concept of dependent events, Basic understanding"
+              },
+              {
+                "name": "Single dice, Two dice, Sum based questions"
+              }
+            ]
+          },
+          {
+            "name": "Coin Based Questions",
+            "subtopics": [
+              {
+                "name": "Head/Tail probability, Multiple coin toss"
+              }
+            ]
+          },
+          {
+            "name": "Cards Based Questions",
+            "subtopics": [
+              {
+                "name": "Deck of 52 cards, Face cards, red/black"
+              }
+            ]
+          },
+          {
+            "name": "Number Based Probability",
+            "subtopics": [
+              {
+                "name": "Selecting numbers, Even/odd probability"
+              },
+              {
+                "name": "“Not happening” type questions, At least one case"
+              }
+            ]
+          },
+          {
+            "name": "Combined Events",
+            "subtopics": [
+              {
+                "name": "Two events together, At least one event"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Permutation and Combination",
+        "topics": []
+      },
+      {
+        "name": "AP and GP",
+        "topics": []
+      },
+      {
+        "name": "Relation between AM, GM, HM",
+        "topics": []
+      }
+    ]
+  },
+  {
+    "name": "Reasoning",
+    "chapters": [
+      {
+        "name": "🧩 Analogy",
+        "topics": [
+          {
+            "name": "Number Analogy",
+            "subtopics": []
+          },
+          {
+            "name": "Alphabet Analogy",
+            "subtopics": []
+          },
+          {
+            "name": "Word Analogy",
+            "subtopics": []
+          },
+          {
+            "name": "Semantic Analogy",
+            "subtopics": []
+          },
+          {
+            "name": "Figure Analogy",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔢 Classification (Odd One Out)",
+        "topics": [
+          {
+            "name": "Number Classification",
+            "subtopics": []
+          },
+          {
+            "name": "Alphabet Classification",
+            "subtopics": []
+          },
+          {
+            "name": "Word Classification",
+            "subtopics": []
+          },
+          {
+            "name": "Figure Classification",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔤 Coding-Decoding",
+        "topics": [
+          {
+            "name": "Letter Coding",
+            "subtopics": []
+          },
+          {
+            "name": "Number Coding",
+            "subtopics": []
+          },
+          {
+            "name": "Substitution Coding",
+            "subtopics": []
+          },
+          {
+            "name": "Mixed Coding",
+            "subtopics": []
+          },
+          {
+            "name": "Coding in Sentence",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔗 Series",
+        "topics": [
+          {
+            "name": "Number Series",
+            "subtopics": []
+          },
+          {
+            "name": "Alphabet Series",
+            "subtopics": []
+          },
+          {
+            "name": "Alphanumeric Series",
+            "subtopics": []
+          },
+          {
+            "name": "Missing Term Series",
+            "subtopics": []
+          },
+          {
+            "name": "Wrong Term Series",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧮 Mathematical Operations",
+        "topics": [
+          {
+            "name": "Symbol Replacement",
+            "subtopics": []
+          },
+          {
+            "name": "Equation Balancing",
+            "subtopics": []
+          },
+          {
+            "name": "Wrong Equation Detection",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "📊 Venn Diagram",
+        "topics": [
+          {
+            "name": "2-set Venn Diagram",
+            "subtopics": []
+          },
+          {
+            "name": "3-set Venn Diagram",
+            "subtopics": []
+          },
+          {
+            "name": "Logical Venn Problems",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧠 Syllogism",
+        "topics": [
+          {
+            "name": "Statement & Conclusions",
+            "subtopics": []
+          },
+          {
+            "name": "Possibility Cases",
+            "subtopics": []
+          },
+          {
+            "name": "Venn-based Syllogism",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔄 Blood Relations",
+        "topics": [
+          {
+            "name": "Coded Relations",
+            "subtopics": []
+          },
+          {
+            "name": "Puzzle-based Relations",
+            "subtopics": []
+          },
+          {
+            "name": "Family Tree",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧭 Direction & Distance",
+        "topics": [
+          {
+            "name": "Basic Directions",
+            "subtopics": []
+          },
+          {
+            "name": "Distance Calculation",
+            "subtopics": []
+          },
+          {
+            "name": "Shortest Path",
+            "subtopics": []
+          },
+          {
+            "name": "Direction Puzzle",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧱 Order & Ranking",
+        "topics": [
+          {
+            "name": "Position-based Questions",
+            "subtopics": []
+          },
+          {
+            "name": "Rank Comparison",
+            "subtopics": []
+          },
+          {
+            "name": "Arrangement-based Ranking",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🪑 Seating Arrangement",
+        "topics": [
+          {
+            "name": "Linear Arrangement",
+            "subtopics": []
+          },
+          {
+            "name": "Circular Arrangement",
+            "subtopics": []
+          },
+          {
+            "name": "Mixed Arrangement",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "📅 Calendar",
+        "topics": [
+          {
+            "name": "Odd Days Concept",
+            "subtopics": []
+          },
+          {
+            "name": "Day Calculation",
+            "subtopics": []
+          },
+          {
+            "name": "Leap Year",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "⏰ Clock",
+        "topics": [
+          {
+            "name": "Angle Between Hands",
+            "subtopics": []
+          },
+          {
+            "name": "Time Calculation",
+            "subtopics": []
+          },
+          {
+            "name": "Mirror Clock",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔍 Statement & Conclusion / Assumption",
+        "topics": [
+          {
+            "name": "Statement & Conclusion",
+            "subtopics": []
+          },
+          {
+            "name": "Statement & Assumption",
+            "subtopics": []
+          },
+          {
+            "name": "Statement & Argument",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧠 Decision Making",
+        "topics": [
+          {
+            "name": "Situation-based Questions",
+            "subtopics": []
+          },
+          {
+            "name": "Logical Decision Problems",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔄 Input-Output (New Pattern)",
+        "topics": [
+          {
+            "name": "Machine-based Arrangement",
+            "subtopics": []
+          },
+          {
+            "name": "Step-wise Logic",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔢 Number Puzzle",
+        "topics": [
+          {
+            "name": "Missing Numbers",
+            "subtopics": []
+          },
+          {
+            "name": "Pattern-based Puzzle",
+            "subtopics": []
+          },
+          {
+            "name": "Grid Puzzle",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔷 Non-Verbal Reasoning",
+        "topics": [
+          {
+            "name": "Figure Series",
+            "subtopics": []
+          },
+          {
+            "name": "Complete the Series",
+            "subtopics": []
+          },
+          {
+            "name": "Missing Figure",
+            "subtopics": []
+          },
+          {
+            "name": "Mirror & Water Image",
+            "subtopics": []
+          },
+          {
+            "name": "Mirror Image",
+            "subtopics": []
+          },
+          {
+            "name": "Water Image",
+            "subtopics": []
+          },
+          {
+            "name": "Paper Folding & Cutting",
+            "subtopics": []
+          },
+          {
+            "name": "Hole Punching",
+            "subtopics": []
+          },
+          {
+            "name": "Fold Patterns",
+            "subtopics": []
+          },
+          {
+            "name": "Embedded Figures",
+            "subtopics": []
+          },
+          {
+            "name": "Hidden Figures",
+            "subtopics": []
+          },
+          {
+            "name": "Figure Counting",
+            "subtopics": []
+          },
+          {
+            "name": "Counting Shapes",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "Cube & Dice",
+        "topics": [
+          {
+            "name": "Open Dice",
+            "subtopics": []
+          },
+          {
+            "name": "Closed Dice",
+            "subtopics": []
+          },
+          {
+            "name": "Cube Painting",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧩 Matrix & Puzzle",
+        "topics": [
+          {
+            "name": "Box Puzzle",
+            "subtopics": []
+          },
+          {
+            "name": "Floor Puzzle",
+            "subtopics": []
+          },
+          {
+            "name": "Scheduling Puzzle",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔀 Miscellaneous",
+        "topics": [
+          {
+            "name": "Alphabet Test",
+            "subtopics": []
+          },
+          {
+            "name": "Word Formation",
+            "subtopics": []
+          },
+          {
+            "name": "Dictionary Order",
+            "subtopics": []
+          },
+          {
+            "name": "Logical Sequence",
+            "subtopics": []
+          },
+          {
+            "name": "Data Sufficiency",
+            "subtopics": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "English",
+    "chapters": [
+      {
+        "name": "📖 Reading Comprehension",
+        "topics": [
+          {
+            "name": "Factual Passages",
+            "subtopics": []
+          },
+          {
+            "name": "Inference-based Questions",
+            "subtopics": []
+          },
+          {
+            "name": "Tone of Passage",
+            "subtopics": []
+          },
+          {
+            "name": "Theme / Central Idea",
+            "subtopics": []
+          },
+          {
+            "name": "Vocabulary-based Questions",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧠 Cloze Test",
+        "topics": [
+          {
+            "name": "Fill in the blanks in a passage",
+            "subtopics": []
+          },
+          {
+            "name": "Grammar-based Cloze",
+            "subtopics": []
+          },
+          {
+            "name": "Vocabulary-based Cloze",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "✏️ Error Detection (Spotting Errors)",
+        "topics": [
+          {
+            "name": "Subject-Verb Agreement",
+            "subtopics": []
+          },
+          {
+            "name": "Tense Errors",
+            "subtopics": []
+          },
+          {
+            "name": "Preposition Errors",
+            "subtopics": []
+          },
+          {
+            "name": "Article Errors",
+            "subtopics": []
+          },
+          {
+            "name": "Pronoun Errors",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔄 Sentence Improvement",
+        "topics": [
+          {
+            "name": "Grammar Correction",
+            "subtopics": []
+          },
+          {
+            "name": "Word Usage",
+            "subtopics": []
+          },
+          {
+            "name": "Phrase Replacement",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔀 Para Jumbles (Sentence Arrangement)",
+        "topics": [
+          {
+            "name": "Rearranging Sentences",
+            "subtopics": []
+          },
+          {
+            "name": "Logical Flow",
+            "subtopics": []
+          },
+          {
+            "name": "Coherence",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔁 Fill in the Blanks",
+        "topics": [
+          {
+            "name": "Single Blank",
+            "subtopics": []
+          },
+          {
+            "name": "Double Blank",
+            "subtopics": []
+          },
+          {
+            "name": "Vocabulary-based",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔤 Vocabulary",
+        "topics": [
+          {
+            "name": "Synonyms",
+            "subtopics": []
+          },
+          {
+            "name": "Antonyms",
+            "subtopics": []
+          },
+          {
+            "name": "One Word Substitution",
+            "subtopics": []
+          },
+          {
+            "name": "Idioms & Phrases",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔡 Spelling Correction",
+        "topics": []
+      },
+      {
+        "name": "📚 Active & Passive Voice",
+        "topics": [
+          {
+            "name": "Conversion Rules",
+            "subtopics": []
+          },
+          {
+            "name": "Tense-based Questions",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🗣️ Direct & Indirect Speech (Narration)",
+        "topics": [
+          {
+            "name": "Statement",
+            "subtopics": []
+          },
+          {
+            "name": "Question",
+            "subtopics": []
+          },
+          {
+            "name": "Order / Request / Exclamation",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔍 Sentence Correction",
+        "topics": [
+          {
+            "name": "Full sentence error correction",
+            "subtopics": []
+          },
+          {
+            "name": "Grammar + Vocabulary combined",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "📊 Phrase Replacement",
+        "topics": [
+          {
+            "name": "Replace incorrect part of sentence",
+            "subtopics": []
+          },
+          {
+            "name": "Improve clarity and correctness",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧩 Sentence Completion",
+        "topics": [
+          {
+            "name": "Choose correct ending",
+            "subtopics": []
+          },
+          {
+            "name": "Context understanding",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔗 Connectors / Sentence Linking",
+        "topics": [
+          {
+            "name": "Conjunctions",
+            "subtopics": []
+          },
+          {
+            "name": "Transition words",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "📖 Word Usage",
+        "topics": [
+          {
+            "name": "Correct usage in sentence",
+            "subtopics": []
+          },
+          {
+            "name": "Confusing words (affect/effect, etc.)",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔤 Parts of Speech (Grammar Base)",
+        "topics": [
+          {
+            "name": "Noun",
+            "subtopics": []
+          },
+          {
+            "name": "Pronoun",
+            "subtopics": []
+          },
+          {
+            "name": "Verb",
+            "subtopics": []
+          },
+          {
+            "name": "Adjective",
+            "subtopics": []
+          },
+          {
+            "name": "Adverb",
+            "subtopics": []
+          },
+          {
+            "name": "Preposition",
+            "subtopics": []
+          },
+          {
+            "name": "Conjunction",
+            "subtopics": []
+          },
+          {
+            "name": "Interjection",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "⏱️ Tense",
+        "topics": [
+          {
+            "name": "Present, Past, Future",
+            "subtopics": []
+          },
+          {
+            "name": "Simple, Continuous, Perfect",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "⚖️ Subject-Verb Agreement",
+        "topics": [
+          {
+            "name": "Singular/Plural Rules",
+            "subtopics": []
+          },
+          {
+            "name": "Collective Nouns",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "📌 Articles",
+        "topics": [
+          {
+            "name": "A, An, The",
+            "subtopics": []
+          },
+          {
+            "name": "Zero Article",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔀 Miscellaneous",
+        "topics": [
+          {
+            "name": "Sentence Formation",
+            "subtopics": []
+          },
+          {
+            "name": "Phrase Meaning",
+            "subtopics": []
+          },
+          {
+            "name": "Word Rearrangement",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "📱 How to Use This in Your App",
+        "topics": []
+      },
+      {
+        "name": "You can divide like:",
+        "topics": []
+      },
+      {
+        "name": "Level 1: Grammar",
+        "topics": [
+          {
+            "name": "Parts of Speech",
+            "subtopics": []
+          },
+          {
+            "name": "Tense",
+            "subtopics": []
+          },
+          {
+            "name": "Articles",
+            "subtopics": []
+          },
+          {
+            "name": "Voice",
+            "subtopics": []
+          },
+          {
+            "name": "Narration",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "Level 2: Vocabulary",
+        "topics": [
+          {
+            "name": "Synonyms",
+            "subtopics": []
+          },
+          {
+            "name": "Antonyms",
+            "subtopics": []
+          },
+          {
+            "name": "Idioms",
+            "subtopics": []
+          },
+          {
+            "name": "One Word Substitution",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "Level 3: Application",
+        "topics": [
+          {
+            "name": "Error Detection",
+            "subtopics": []
+          },
+          {
+            "name": "Fill in the Blanks",
+            "subtopics": []
+          },
+          {
+            "name": "Sentence Improvement",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "Level 4: Advanced",
+        "topics": [
+          {
+            "name": "Reading Comprehension",
+            "subtopics": []
+          },
+          {
+            "name": "Cloze Test",
+            "subtopics": []
+          },
+          {
+            "name": "Para Jumbles",
+            "subtopics": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Computer Proficiency",
+    "chapters": [
+      {
+        "name": "🧠 Computer Basics",
+        "topics": [
+          {
+            "name": "Organization of Computer",
+            "subtopics": []
+          },
+          {
+            "name": "Central Processing Unit (CPU)",
+            "subtopics": []
+          },
+          {
+            "name": "Input Devices (Keyboard, Mouse, Scanner)",
+            "subtopics": []
+          },
+          {
+            "name": "Output Devices (Monitor, Printer)",
+            "subtopics": []
+          },
+          {
+            "name": "Computer Memory",
+            "subtopics": []
+          },
+          {
+            "name": "Memory Organization",
+            "subtopics": []
+          },
+          {
+            "name": "Backup Devices (Hard Disk, Pen Drive, etc.)",
+            "subtopics": []
+          },
+          {
+            "name": "Ports (USB, HDMI, etc.)",
+            "subtopics": []
+          },
+          {
+            "name": "Windows Explorer",
+            "subtopics": []
+          },
+          {
+            "name": "Keyboard Shortcuts",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "⚙️ Software",
+        "topics": [
+          {
+            "name": "Windows Operating System",
+            "subtopics": [
+              {
+                "name": "o\tBasic Functions"
+              },
+              {
+                "name": "o\tFile Management"
+              }
+            ]
+          },
+          {
+            "name": "Microsoft Office Basics:",
+            "subtopics": [
+              {
+                "name": "o\tMS Word"
+              },
+              {
+                "name": "o\tMS Excel"
+              },
+              {
+                "name": "o\tMS PowerPoint"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "🌐 Internet & E-mails",
+        "topics": [
+          {
+            "name": "Web Browsing & Searching",
+            "subtopics": []
+          },
+          {
+            "name": "Downloading & Uploading",
+            "subtopics": []
+          },
+          {
+            "name": "Managing E-mail Account",
+            "subtopics": []
+          },
+          {
+            "name": "E-mail Functions (Send, Receive, Attachments)",
+            "subtopics": []
+          },
+          {
+            "name": "E-Banking Basics",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔗 Networking & Cyber Security",
+        "topics": [
+          {
+            "name": "Networking",
+            "subtopics": []
+          },
+          {
+            "name": "Networking Devices (Router, Switch, etc.)",
+            "subtopics": []
+          },
+          {
+            "name": "Basic Networking Concepts",
+            "subtopics": []
+          },
+          {
+            "name": "Network Protocols",
+            "subtopics": []
+          },
+          {
+            "name": "Cyber Security",
+            "subtopics": []
+          },
+          {
+            "name": "Information Security",
+            "subtopics": []
+          },
+          {
+            "name": "Threats:",
+            "subtopics": [
+              {
+                "name": "o\tHacking"
+              },
+              {
+                "name": "o\tVirus"
+              },
+              {
+                "name": "o\tWorms"
+              },
+              {
+                "name": "o\tTrojan"
+              }
+            ]
+          },
+          {
+            "name": "Preventive Measures:",
+            "subtopics": [
+              {
+                "name": "o\tAntivirus"
+              },
+              {
+                "name": "o\tSafe Browsing"
+              },
+              {
+                "name": "o\tPassword Security"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shortcut keys",
+        "topics": [
+          {
+            "name": "Windows",
+            "subtopics": []
+          },
+          {
+            "name": "MS Excel",
+            "subtopics": []
+          },
+          {
+            "name": "MS Word",
+            "subtopics": []
+          },
+          {
+            "name": "MS Power point",
+            "subtopics": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "General Knowledge",
+    "subjects": [
+      {
+        "name": "Geography",
+        "chapters": [
+          {
+            "name": "Solar system",
+            "topics": []
+          },
+          {
+            "name": "🌎 Physical Geography (World)",
+            "topics": [
+              {
+                "name": "Earth Basics",
+                "subtopics": []
+              },
+              {
+                "name": "Shape & Size of Earth",
+                "subtopics": []
+              },
+              {
+                "name": "Rotation & Revolution",
+                "subtopics": []
+              },
+              {
+                "name": "Latitudes & Longitudes",
+                "subtopics": []
+              },
+              {
+                "name": "Time Zones",
+                "subtopics": []
+              },
+              {
+                "name": "Interior of Earth",
+                "subtopics": []
+              },
+              {
+                "name": "Crust, Mantle, Core",
+                "subtopics": []
+              },
+              {
+                "name": "Rocks (Igneous, Sedimentary, Metamorphic)",
+                "subtopics": []
+              },
+              {
+                "name": "Minerals",
+                "subtopics": []
+              },
+              {
+                "name": "Landforms",
+                "subtopics": []
+              },
+              {
+                "name": "Mountains (Fold, Block, Volcanic)",
+                "subtopics": []
+              },
+              {
+                "name": "Plateaus",
+                "subtopics": []
+              },
+              {
+                "name": "Plains",
+                "subtopics": []
+              },
+              {
+                "name": "Deserts",
+                "subtopics": []
+              },
+              {
+                "name": "Volcano & Earthquakes",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Volcanoes",
+                "subtopics": []
+              },
+              {
+                "name": "Causes of Earthquakes",
+                "subtopics": []
+              },
+              {
+                "name": "Seismic Zones",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌬️ Climatology (Atmosphere)",
+            "topics": [
+              {
+                "name": "Layers of Atmosphere",
+                "subtopics": []
+              },
+              {
+                "name": "Temperature & Pressure Belts",
+                "subtopics": []
+              },
+              {
+                "name": "Winds (Trade, Westerlies, Local Winds)",
+                "subtopics": []
+              },
+              {
+                "name": "Cyclones & Anticyclones",
+                "subtopics": []
+              },
+              {
+                "name": "Monsoon System",
+                "subtopics": []
+              },
+              {
+                "name": "Rainfall Types (Orographic, Convectional, Cyclonic)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌊 Oceanography",
+            "topics": [
+              {
+                "name": "Oceans of the World",
+                "subtopics": []
+              },
+              {
+                "name": "Ocean Currents (Warm & Cold)",
+                "subtopics": []
+              },
+              {
+                "name": "Tides (High & Low)",
+                "subtopics": []
+              },
+              {
+                "name": "Waves",
+                "subtopics": []
+              },
+              {
+                "name": "Coral Reefs",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌱 Biogeography",
+            "topics": [
+              {
+                "name": "Biosphere",
+                "subtopics": []
+              },
+              {
+                "name": "Ecosystem",
+                "subtopics": []
+              },
+              {
+                "name": "Food Chain & Food Web",
+                "subtopics": []
+              },
+              {
+                "name": "Natural Vegetation",
+                "subtopics": []
+              },
+              {
+                "name": "Wildlife",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Indian Geography",
+            "topics": [
+              {
+                "name": "Physiography of India",
+                "subtopics": []
+              },
+              {
+                "name": "Himalayan Mountains",
+                "subtopics": []
+              },
+              {
+                "name": "Northern Plains",
+                "subtopics": []
+              },
+              {
+                "name": "Peninsular Plateau",
+                "subtopics": []
+              },
+              {
+                "name": "Thar Desert",
+                "subtopics": []
+              },
+              {
+                "name": "Coastal Plains",
+                "subtopics": []
+              },
+              {
+                "name": "Islands",
+                "subtopics": []
+              },
+              {
+                "name": "Indian Rivers",
+                "subtopics": []
+              },
+              {
+                "name": "Himalayan Rivers (Ganga, Brahmaputra)",
+                "subtopics": []
+              },
+              {
+                "name": "Peninsular Rivers (Godavari, Krishna, Kaveri)",
+                "subtopics": []
+              },
+              {
+                "name": "River Projects & Dams",
+                "subtopics": []
+              },
+              {
+                "name": "Climate of India",
+                "subtopics": []
+              },
+              {
+                "name": "Monsoon Mechanism",
+                "subtopics": []
+              },
+              {
+                "name": "Seasons in India",
+                "subtopics": []
+              },
+              {
+                "name": "Rainfall Distribution",
+                "subtopics": []
+              },
+              {
+                "name": "Soil in India",
+                "subtopics": []
+              },
+              {
+                "name": "Alluvial Soil",
+                "subtopics": []
+              },
+              {
+                "name": "Black Soil",
+                "subtopics": []
+              },
+              {
+                "name": "Red Soil",
+                "subtopics": []
+              },
+              {
+                "name": "Laterite Soil",
+                "subtopics": []
+              },
+              {
+                "name": "Desert Soil",
+                "subtopics": []
+              },
+              {
+                "name": "Natural Vegetation of India",
+                "subtopics": []
+              },
+              {
+                "name": "Forest Types",
+                "subtopics": []
+              },
+              {
+                "name": "National Parks & Wildlife Sanctuaries",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌾 Agriculture",
+            "topics": [
+              {
+                "name": "Types of Farming",
+                "subtopics": []
+              },
+              {
+                "name": "Cropping Seasons (Kharif, Rabi, Zaid)",
+                "subtopics": []
+              },
+              {
+                "name": "Major Crops:",
+                "subtopics": [
+                  {
+                    "name": "o\tRice"
+                  },
+                  {
+                    "name": "o\tWheat"
+                  },
+                  {
+                    "name": "o\tCotton"
+                  },
+                  {
+                    "name": "o\tTea"
+                  },
+                  {
+                    "name": "o\tCoffee"
+                  }
+                ]
+              },
+              {
+                "name": "Green Revolution",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏭 Industries",
+            "topics": [
+              {
+                "name": "Types of Industries",
+                "subtopics": []
+              },
+              {
+                "name": "Major Industries in India",
+                "subtopics": []
+              },
+              {
+                "name": "Industrial Regions",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🚆 Transport & Communication",
+            "topics": [
+              {
+                "name": "Roadways",
+                "subtopics": []
+              },
+              {
+                "name": "Railways",
+                "subtopics": []
+              },
+              {
+                "name": "Airways",
+                "subtopics": []
+              },
+              {
+                "name": "Waterways",
+                "subtopics": []
+              },
+              {
+                "name": "Communication Systems",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "👥 Population",
+            "topics": [
+              {
+                "name": "Population Distribution",
+                "subtopics": []
+              },
+              {
+                "name": "Density",
+                "subtopics": []
+              },
+              {
+                "name": "Growth Rate",
+                "subtopics": []
+              },
+              {
+                "name": "Census Data",
+                "subtopics": []
+              },
+              {
+                "name": "Migration",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🗺️ World Geography (Important for SSC)",
+            "topics": [
+              {
+                "name": "Continents & Oceans",
+                "subtopics": []
+              },
+              {
+                "name": "Important Countries & Capitals",
+                "subtopics": []
+              },
+              {
+                "name": "Important Rivers (Nile, Amazon, Yangtze)",
+                "subtopics": []
+              },
+              {
+                "name": "Deserts & Mountains (Sahara, Andes, Rockies)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧭 Map-Based Questions",
+            "topics": [
+              {
+                "name": "India Map",
+                "subtopics": []
+              },
+              {
+                "name": "World Map",
+                "subtopics": []
+              },
+              {
+                "name": "Location-based Questions",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🔥 Miscellaneous",
+            "topics": [
+              {
+                "name": "Environmental Issues",
+                "subtopics": []
+              },
+              {
+                "name": "Climate Change",
+                "subtopics": []
+              },
+              {
+                "name": "Global Warming",
+                "subtopics": []
+              },
+              {
+                "name": "Natural Resources",
+                "subtopics": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "History",
+        "subjects": [
+          {
+            "name": "Ancient History",
+            "chapters": [
+              {
+                "name": "🧬 Prehistoric Period",
+                "topics": [
+                  {
+                    "name": "Paleolithic Age (Old Stone Age)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Mesolithic Age (Middle Stone Age)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Neolithic Age (New Stone Age)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chalcolithic Age (Copper Age)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Tools, lifestyle, art (cave paintings)",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏙️ Indus Valley Civilization (Harappan Civilization)",
+                "topics": [
+                  {
+                    "name": "Major Sites (Harappa, Mohenjo-daro, Lothal, Kalibangan)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Town Planning",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Drainage System",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Economy & Trade",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Script & Seals",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Religion & Culture",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "📜 Vedic Period",
+                "topics": [
+                  {
+                    "name": "Early Vedic Period",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sub division of Vedas",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Upanishad",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Vedangas",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rigvedic Society",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Tribal Structure",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Religion & Gods",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Later Vedic Period",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Social Changes (Varna System)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Agriculture & Economy",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Political Structure",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🧘‍♂️ Religious Movements",
+                "topics": [
+                  {
+                    "name": "Buddhism",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Life of Gautama Buddha",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Symbols of Buddha’s Life",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Four Noble Truths",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Eightfold Path",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Buddhist Councils",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sects of Buddhism",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Buddhist Stupas and monasteries",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Parts of stupa",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Jainism",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Life of Mahavira",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Teachings",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Jain Councils",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏛️ Mahajanapadas & Rise of Magadha",
+                "topics": [
+                  {
+                    "name": "16 Mahajanapadas and their Capital",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Haryanka Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Shishuga Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Nanda Dynasty",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "⚔️ Mauryan Empire",
+                "topics": [
+                  {
+                    "name": "Chandragupta Maurya",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chanakya",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Economy",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Ashoka",
+                "topics": [
+                  {
+                    "name": "Life of Ashoka",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Kalinga War",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Dhamma Policy",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rock & Pillar Edicts",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Inscriptions",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Tax System, officers, courts, Society",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏺 Post-Mauryan Period",
+                "topics": [
+                  {
+                    "name": "Shunga Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Kanva Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Satavahana Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Indo-Greeks",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Saka",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Kushan Empire – Polity, culture, literature, science",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Gandhara and Mathura School of Art",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🎨 Gupta Empire (Golden Age)",
+                "topics": [
+                  {
+                    "name": "Rule of Chandragupta I",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Samudragupta",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Chandragupta II",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Navratnas",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Kumargupta I",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "SkandaguptaI",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Economy",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Art & Culture",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Science & Literature",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Vakataka Dynasty",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏰 Post-Gupta Period",
+                "topics": [
+                  {
+                    "name": "Pushyabhuti/Vardhana Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Harshavardhana",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chalukya Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Badami Chalukya",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Pallava Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rashtrakuta Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Hoysala Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Architecture",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Sangam Age",
+                "topics": [
+                  {
+                    "name": "Pottery, community, Literature, Geography",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Division of Thinais in five parts",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chera, Cholas and Pandyas",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Society",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Tripartite Struggle and Cholas",
+                "topics": [
+                  {
+                    "name": "Pala Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Gurjara Pratihara",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chola Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration, government, land donation",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Cholas temples",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Temple Architecture",
+                    "subtopics": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Medieval History",
+            "chapters": [
+              {
+                "name": "⚔️ Delhi Sultanate (1206–1526)",
+                "topics": []
+              },
+              {
+                "name": "Foreign Invasion",
+                "topics": [
+                  {
+                    "name": "Muhammad bin Qasim",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Mahmud of Ghazni",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Muhammad Ghori",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Prithviraj all battel",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Slave Dynasty (Mamluk)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Qutb-ud-din Aibak",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Iltutmish",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Razia Sultana",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Ghiyasuddin balban",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Qaiqabad",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Important officers",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Khilji Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Alauddin Khilji",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Expeditions",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Khusrau",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Market Reforms",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Military Expansion",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Built",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Tughlaq Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Ghiyasuddin Tuglaq",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Muhammad bin Tughlaq",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administrative Experiments",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Firoz Shah Tughlaq",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Timur Invasion",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sayyid & Lodi Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Important Rulers",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "End of Sultanate",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Central Administration",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🎭 Religious Movements",
+                "topics": [
+                  {
+                    "name": "Bhakti Movement",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Teachings",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Saints like Kabir, Guru Nanak, Tulsidas",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sufi Movement",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sufi Saints",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chishti & Suhrawardi Orders",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sikh Gurus",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏹 Vijayanagar & Bahmani Kingdoms",
+                "topics": []
+              },
+              {
+                "name": "Vijayanagar Empire",
+                "topics": [
+                  {
+                    "name": "Important Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Harihara I and Bukka",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Saluva Narasimha",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Veer Narasimha/Narasa nayaka",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Krishna Deva Raya",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Culture",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Bahmani Kingdom",
+                "topics": [
+                  {
+                    "name": "Rise & Decline",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Deccan Politics",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏰 Mughal Empire (1526–1707)",
+                "topics": [
+                  {
+                    "name": "Foundation",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Battle of Panipat (1526)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Babur",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Humayun",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sher Shah Suri",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Akbar",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Akbar",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Architecture",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Navratnas",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Mansabdari System",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Religious Policy (Sulh-i-kul)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Jahangir",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Shah Jahan",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Aurangzeb",
+                "topics": []
+              },
+              {
+                "name": "🏛️ Mughal Administration",
+                "topics": [
+                  {
+                    "name": "Central & Provincial Administration",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Mansabdari System",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Revenue System (Zabt System)",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🎨 Art & Culture",
+                "topics": [
+                  {
+                    "name": "Indo-Islamic Architecture",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Mughal Paintings",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Literature & Languages (Persian, Urdu)",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "💰 Economy",
+                "topics": [
+                  {
+                    "name": "Agriculture",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Trade & Commerce",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Crafts & Industries",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "⚔️ Maratha Empire",
+                "topics": [
+                  {
+                    "name": "Rise of Shivaji Maharaj",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Battles and treaty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sambhaji",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rajaram",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Shahuji",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Balaji Viswanath",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Baji Rao I",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Balaji Baji Rao",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Anglo Martha war",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration",
+                    "subtopics": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Modern History",
+            "chapters": [
+              {
+                "name": "🚢 Advent of Europeans in India",
+                "topics": [
+                  {
+                    "name": "Arrival of Vasco da Gama (1498)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Portuguese, Dutch, English, French",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Carnatic Wars",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Trade Centers & Factories",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "⚔️ British Expansion in India",
+                "topics": [
+                  {
+                    "name": "Battles:",
+                    "subtopics": [
+                      {
+                        "name": "o\tBattle of Plassey (1757)"
+                      },
+                      {
+                        "name": "o\tBattle of Buxar (1764)"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Anglo Mysore wars",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Expansion Policies",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Subsidiary Alliance – Lord Wellesley",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Doctrine of Lapse – Lord Dalhousie",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Anglo Sikh war",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Anglo Afghan war",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏛️ British Administration",
+                "topics": [
+                  {
+                    "name": "Regulating Act (1773)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Pitt’s India Act (1784)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Charter Acts",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Governor-Generals & Viceroys",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Permanent Settlement, ryotwari System, Mahalwari system",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Pre Revolts",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "📜 Revolt of 1857",
+                "topics": [
+                  {
+                    "name": "Causes (Political, Economic, Military)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Leaders and suppressors",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Nature & Consequences",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "GOI Act 1858",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🧠 Social & Religious Reform Movements",
+                "topics": []
+              },
+              {
+                "name": "🏛️ Indian National Movement (INC)",
+                "topics": [
+                  {
+                    "name": "Association formed before Congress",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Formation of INC (1885)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Different Theories",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sessions of Congress",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Partition of Bengal (1905)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Swadeshi Movement",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Moderates & Extremists",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "India Council Act 1909",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Revolutionary Activities",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Home rule league1916",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "✊ Gandhian Era",
+                "topics": [
+                  {
+                    "name": "Gandhi’s Work in South Africa",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Champaran Satyagraha (1917)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Champaran Agrarian Act 1918",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Ahmedabad mill Strike 1918",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Kheda Movement",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "GOI Act 1919",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rowlat Satyagraha 1919",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Jallianwala Bagh Massacre 1919",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Khilafat Movement 1919",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Non-Cooperation Movement (1920)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chauri Chaura Incident 1922",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Civil Disobedience Movement (1930)  and Simon Commission",
+                "topics": [
+                  {
+                    "name": "Events around India",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Simon commission 1928",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Factors led to CDM",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "CDM 1930",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Gandhi Irwin Pact 1931",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Round table conference",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Communal Awards",
+                "topics": []
+              },
+              {
+                "name": "Poona Pacts 1932",
+                "topics": []
+              },
+              {
+                "name": "GOI Act 1935",
+                "topics": []
+              },
+              {
+                "name": "August offer 1940",
+                "topics": []
+              },
+              {
+                "name": "Cripps Mission 1942",
+                "topics": []
+              },
+              {
+                "name": "Quit India Movement 1942",
+                "topics": []
+              },
+              {
+                "name": "Indian National Army (INA)",
+                "topics": []
+              },
+              {
+                "name": "cabinet Mission Plan",
+                "topics": []
+              },
+              {
+                "name": "Mountbatten Plan",
+                "topics": []
+              },
+              {
+                "name": "🔥 Revolutionary Movements",
+                "topics": [
+                  {
+                    "name": "Bhagat Singh",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chandra Shekhar Azad",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Subhas Chandra Bose",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Indian National Army (INA)",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "📜 Important Acts & Policies",
+                "topics": [
+                  {
+                    "name": "Indian Councils Act (1909)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Government of India Act (1919, 1935)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Cripps Mission",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Cabinet Mission Plan",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🗳️ Towards Independence",
+                "topics": [
+                  {
+                    "name": "Mountbatten Plan",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Indian Independence Act (1947)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Partition of India",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🎭 Important Organizations",
+                "topics": [
+                  {
+                    "name": "Indian National Congress",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Muslim League",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Revolutionary Groups",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🧾 Important Sessions & Committees",
+                "topics": [
+                  {
+                    "name": "INC Sessions",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Important Resolutions",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🧩 Miscellaneous",
+                "topics": [
+                  {
+                    "name": "Important Dates & Events",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Important Personalities",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Newspapers & Journals",
+                    "subtopics": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Polity",
+        "chapters": [
+          {
+            "name": "📜 Constitution of India",
+            "topics": [
+              {
+                "name": "Making of Constitution",
+                "subtopics": []
+              },
+              {
+                "name": "Sources of Constitution",
+                "subtopics": []
+              },
+              {
+                "name": "Features of Constitution",
+                "subtopics": []
+              },
+              {
+                "name": "Preamble",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏛️ Citizenship",
+            "topics": [
+              {
+                "name": "Types of Citizenship",
+                "subtopics": []
+              },
+              {
+                "name": "Citizenship Act",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚖️ Fundamental Rights",
+            "topics": [
+              {
+                "name": "Right to Equality",
+                "subtopics": []
+              },
+              {
+                "name": "Right to Freedom",
+                "subtopics": []
+              },
+              {
+                "name": "Right against Exploitation",
+                "subtopics": []
+              },
+              {
+                "name": "Right to Freedom of Religion",
+                "subtopics": []
+              },
+              {
+                "name": "Cultural & Educational Rights",
+                "subtopics": []
+              },
+              {
+                "name": "Right to Constitutional Remedies",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🎯 Directive Principles of State Policy (DPSP)",
+            "topics": [
+              {
+                "name": "Socialistic Principles",
+                "subtopics": []
+              },
+              {
+                "name": "Gandhian Principles",
+                "subtopics": []
+              },
+              {
+                "name": "Liberal Principles",
+                "subtopics": []
+              },
+              {
+                "name": "Difference: DPSP vs Fundamental Rights",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "📌 Fundamental Duties",
+            "topics": [
+              {
+                "name": "List of Duties",
+                "subtopics": []
+              },
+              {
+                "name": "Importance & Features",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏛️ Union Government",
+            "topics": [
+              {
+                "name": "President of India",
+                "subtopics": []
+              },
+              {
+                "name": "Election",
+                "subtopics": []
+              },
+              {
+                "name": "Powers (Executive, Legislative, Judicial)",
+                "subtopics": []
+              },
+              {
+                "name": "Emergency Powers",
+                "subtopics": []
+              },
+              {
+                "name": "Vice President",
+                "subtopics": []
+              },
+              {
+                "name": "Role & Functions",
+                "subtopics": []
+              },
+              {
+                "name": "Prime Minister & Council of Ministers",
+                "subtopics": []
+              },
+              {
+                "name": "Appointment",
+                "subtopics": []
+              },
+              {
+                "name": "Powers & Functions",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏛️ Parliament of India",
+            "topics": [
+              {
+                "name": "Lok Sabha",
+                "subtopics": []
+              },
+              {
+                "name": "Rajya Sabha",
+                "subtopics": []
+              },
+              {
+                "name": "Law Making Process",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Bills (Money Bill, Ordinary Bill)",
+                "subtopics": []
+              },
+              {
+                "name": "Parliamentary Committees",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚖️ Judiciary",
+            "topics": [
+              {
+                "name": "Supreme Court",
+                "subtopics": []
+              },
+              {
+                "name": "High Court",
+                "subtopics": []
+              },
+              {
+                "name": "Subordinate Courts",
+                "subtopics": []
+              },
+              {
+                "name": "Judicial Review",
+                "subtopics": []
+              },
+              {
+                "name": "Judicial Activism",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏢 State Government",
+            "topics": [
+              {
+                "name": "Governor",
+                "subtopics": []
+              },
+              {
+                "name": "Powers & Functions",
+                "subtopics": []
+              },
+              {
+                "name": "Chief Minister & Council of Ministers",
+                "subtopics": []
+              },
+              {
+                "name": "Role & Powers",
+                "subtopics": []
+              },
+              {
+                "name": "State Legislature",
+                "subtopics": []
+              },
+              {
+                "name": "Vidhan Sabha",
+                "subtopics": []
+              },
+              {
+                "name": "Vidhan Parishad",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🚨 Emergency Provisions",
+            "topics": [
+              {
+                "name": "National Emergency",
+                "subtopics": []
+              },
+              {
+                "name": "State Emergency (President’s Rule)",
+                "subtopics": []
+              },
+              {
+                "name": "Financial Emergency",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏛️ Constitutional & Non-Constitutional Bodies",
+            "topics": []
+          },
+          {
+            "name": "Constitutional Bodies",
+            "topics": [
+              {
+                "name": "Election Commission",
+                "subtopics": []
+              },
+              {
+                "name": "Finance Commission",
+                "subtopics": []
+              },
+              {
+                "name": "UPSC",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Non-Constitutional Bodies",
+            "topics": [
+              {
+                "name": "NITI Aayog",
+                "subtopics": []
+              },
+              {
+                "name": "CBI",
+                "subtopics": []
+              },
+              {
+                "name": "NHRC",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏘️ Local Government (Panchayati Raj)",
+            "topics": [
+              {
+                "name": "73rd Amendment (Rural)",
+                "subtopics": []
+              },
+              {
+                "name": "74th Amendment (Urban)",
+                "subtopics": []
+              },
+              {
+                "name": "Municipalities",
+                "subtopics": []
+              },
+              {
+                "name": "Panchayats",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🗳️ Elections",
+            "topics": [
+              {
+                "name": "Election Process",
+                "subtopics": []
+              },
+              {
+                "name": "Voting System",
+                "subtopics": []
+              },
+              {
+                "name": "Election Commission Role",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚖️ Amendments of Constitution",
+            "topics": [
+              {
+                "name": "Amendment Procedure",
+                "subtopics": []
+              },
+              {
+                "name": "Important Amendments",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🔄 Centre-State Relations",
+            "topics": [
+              {
+                "name": "Legislative Relations",
+                "subtopics": []
+              },
+              {
+                "name": "Administrative Relations",
+                "subtopics": []
+              },
+              {
+                "name": "Financial Relations",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧩 Miscellaneous",
+            "topics": [
+              {
+                "name": "Important Articles",
+                "subtopics": []
+              },
+              {
+                "name": "Important Parts of Constitution",
+                "subtopics": []
+              },
+              {
+                "name": "Basic Structure Doctrine",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Important Cases e.g. Kesavananda Bharti case etc",
+            "topics": []
+          }
+        ]
+      },
+      {
+        "name": "Economics",
+        "chapters": [
+          {
+            "name": "📊 Basic Concepts of Economics",
+            "topics": [
+              {
+                "name": "Meaning of Economics",
+                "subtopics": []
+              },
+              {
+                "name": "Microeconomics vs Macroeconomics",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Economy (Capitalist, Socialist, Mixed)",
+                "subtopics": []
+              },
+              {
+                "name": "Public and private goods",
+                "subtopics": []
+              },
+              {
+                "name": "Sectors of economy",
+                "subtopics": []
+              },
+              {
+                "name": "Normative and positive economics",
+                "subtopics": []
+              },
+              {
+                "name": "Parallel economy",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏦 National Income",
+            "topics": [
+              {
+                "name": "Circular flow of Income",
+                "subtopics": []
+              },
+              {
+                "name": "Method of calculation of nation income( GVA, Income, and expenditure method)",
+                "subtopics": []
+              },
+              {
+                "name": "Final goods and intermediate goods",
+                "subtopics": []
+              },
+              {
+                "name": "GDP (Gross Domestic Product)",
+                "subtopics": []
+              },
+              {
+                "name": "GNP (Gross National Product)",
+                "subtopics": []
+              },
+              {
+                "name": "NNP, NDP, Market and factor cost",
+                "subtopics": []
+              },
+              {
+                "name": "Real GDP and Nominal GDP and their relation or GDP deflator",
+                "subtopics": []
+              },
+              {
+                "name": "Per Capita Income",
+                "subtopics": []
+              },
+              {
+                "name": "Purchasing power parity",
+                "subtopics": []
+              },
+              {
+                "name": "Personal Income, Personal Disposable Income",
+                "subtopics": []
+              },
+              {
+                "name": "Potential GDP",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🛒 Market & Demand-Supply",
+            "topics": [
+              {
+                "name": "Production possibility curve",
+                "subtopics": []
+              },
+              {
+                "name": "Utility and its type",
+                "subtopics": []
+              },
+              {
+                "name": "Consumer’s indifference Curve",
+                "subtopics": []
+              },
+              {
+                "name": "Demand & Law of Demand",
+                "subtopics": []
+              },
+              {
+                "name": "Complimentary goods and substitute goods",
+                "subtopics": []
+              },
+              {
+                "name": "Supply, supply curve & Law of Supply",
+                "subtopics": []
+              },
+              {
+                "name": "Elasticity of Demand  and its type",
+                "subtopics": []
+              },
+              {
+                "name": "Market Structures:",
+                "subtopics": [
+                  {
+                    "name": "o\tPerfect Competition"
+                  },
+                  {
+                    "name": "o\tMonopoly"
+                  },
+                  {
+                    "name": "o\tOligopoly"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "📉 Inflation & Unemployment",
+            "topics": [
+              {
+                "name": "Types of Inflation",
+                "subtopics": []
+              },
+              {
+                "name": "Causes & Effects",
+                "subtopics": []
+              },
+              {
+                "name": "Consumer price Index CPI",
+                "subtopics": []
+              },
+              {
+                "name": "Disinflation, Deflation and Stagflation",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Unemployment",
+                "subtopics": []
+              },
+              {
+                "name": "Marginal worker and main worker",
+                "subtopics": []
+              },
+              {
+                "name": "Organised and unorganised sector",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧾 Government Budget & Taxation",
+            "topics": [
+              {
+                "name": "Union Budget",
+                "subtopics": []
+              },
+              {
+                "name": "Function of budget",
+                "subtopics": []
+              },
+              {
+                "name": "Revenue and capital",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Taxes",
+                "subtopics": []
+              },
+              {
+                "name": "Laffer’s Curve",
+                "subtopics": []
+              },
+              {
+                "name": "GST (Goods and Services Tax)",
+                "subtopics": []
+              },
+              {
+                "name": "Fiscal Policy",
+                "subtopics": []
+              },
+              {
+                "name": "Deficit and its type (Budgetary, revenue, Fiscal and Primary deficit)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Monetary Policy",
+            "topics": [
+              {
+                "name": "Balance sheet",
+                "subtopics": []
+              },
+              {
+                "name": "Net demand and time liability",
+                "subtopics": []
+              },
+              {
+                "name": "Monetary policy tools",
+                "subtopics": []
+              },
+              {
+                "name": "Fiscal policy",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "💸 Money & Banking",
+            "topics": [
+              {
+                "name": "Central Bank – Reserve Bank of India",
+                "subtopics": []
+              },
+              {
+                "name": "Monetary Policy (Repo Rate, Reverse Repo, CRR, SLR)",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Money (Fiat, Digital, etc.)",
+                "subtopics": []
+              },
+              {
+                "name": "History of banking system in India",
+                "subtopics": []
+              },
+              {
+                "name": "Other Financial institutions",
+                "subtopics": []
+              },
+              {
+                "name": "Microfinance institutions (MFIs)",
+                "subtopics": []
+              },
+              {
+                "name": "Liquidity",
+                "subtopics": []
+              },
+              {
+                "name": "Money Aggregates (M0, M1, M2, M3, M4)",
+                "subtopics": []
+              },
+              {
+                "name": "Money market, Assets, Bad bank",
+                "subtopics": []
+              },
+              {
+                "name": "International Banking, Regulations",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "👥Balance of payment and Poverty",
+            "topics": [
+              {
+                "name": "Poverty and its type",
+                "subtopics": []
+              },
+              {
+                "name": "Poverty estimation",
+                "subtopics": []
+              },
+              {
+                "name": "Multidimensional poverty Index (MPI)",
+                "subtopics": []
+              },
+              {
+                "name": "Head count ratio (HCR)",
+                "subtopics": []
+              },
+              {
+                "name": "Balance of payment",
+                "subtopics": []
+              },
+              {
+                "name": "Balance of payment crisis (1991)",
+                "subtopics": []
+              },
+              {
+                "name": "LPG reform",
+                "subtopics": []
+              },
+              {
+                "name": "IMF and world bank",
+                "subtopics": []
+              },
+              {
+                "name": "NOSTRO and VOSTRO",
+                "subtopics": []
+              },
+              {
+                "name": "FERA and FEMA",
+                "subtopics": []
+              },
+              {
+                "name": "Depreciation, appreciation, Devaluation, Revaluation",
+                "subtopics": []
+              },
+              {
+                "name": "Lorenz curve",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Five Year plan",
+            "topics": []
+          },
+          {
+            "name": "Industrial policy Resolution (IPR)",
+            "topics": []
+          },
+          {
+            "name": "Green revolution",
+            "topics": []
+          }
+        ]
+      },
+      {
+        "name": "Physics",
+        "chapters": [
+          {
+            "name": "📏 Units & Measurements",
+            "topics": [
+              {
+                "name": "SI Units",
+                "subtopics": []
+              },
+              {
+                "name": "Fundamental & Derived Units",
+                "subtopics": []
+              },
+              {
+                "name": "Measurement Errors",
+                "subtopics": []
+              },
+              {
+                "name": "Dimensional Analysis",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧭 Motion (Kinematics)",
+            "topics": [
+              {
+                "name": "Distance & Displacement",
+                "subtopics": []
+              },
+              {
+                "name": "Speed & Velocity",
+                "subtopics": []
+              },
+              {
+                "name": "Acceleration",
+                "subtopics": []
+              },
+              {
+                "name": "Equations of Motion",
+                "subtopics": []
+              },
+              {
+                "name": "Graphs (Speed-Time, Distance-Time)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚖️ Laws of Motion",
+            "topics": [
+              {
+                "name": "Newton’s Laws of Motion",
+                "subtopics": []
+              },
+              {
+                "name": "Force & Inertia",
+                "subtopics": []
+              },
+              {
+                "name": "Friction",
+                "subtopics": []
+              },
+              {
+                "name": "Momentum",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🔋 Work, Energy & Power",
+            "topics": [
+              {
+                "name": "Work",
+                "subtopics": []
+              },
+              {
+                "name": "Kinetic Energy",
+                "subtopics": []
+              },
+              {
+                "name": "Potential Energy",
+                "subtopics": []
+              },
+              {
+                "name": "Power",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌍 Gravitation",
+            "topics": [
+              {
+                "name": "Universal Law of Gravitation",
+                "subtopics": []
+              },
+              {
+                "name": "Acceleration due to Gravity (g)",
+                "subtopics": []
+              },
+              {
+                "name": "Free Fall",
+                "subtopics": []
+              },
+              {
+                "name": "Weight vs Mass",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌊 Properties of Matter",
+            "topics": [
+              {
+                "name": "Density",
+                "subtopics": []
+              },
+              {
+                "name": "Pressure",
+                "subtopics": []
+              },
+              {
+                "name": "Elasticity",
+                "subtopics": []
+              },
+              {
+                "name": "Surface Tension",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌡️ Heat & Thermodynamics",
+            "topics": [
+              {
+                "name": "Temperature & Heat",
+                "subtopics": []
+              },
+              {
+                "name": "Modes of Heat Transfer (Conduction, Convection, Radiation)",
+                "subtopics": []
+              },
+              {
+                "name": "Laws of Thermodynamics",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🔊 Sound",
+            "topics": [
+              {
+                "name": "Nature of Sound Waves",
+                "subtopics": []
+              },
+              {
+                "name": "Speed of Sound",
+                "subtopics": []
+              },
+              {
+                "name": "Echo",
+                "subtopics": []
+              },
+              {
+                "name": "Frequency & Pitch",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "💡 Light (Optics)",
+            "topics": [
+              {
+                "name": "Reflection of Light",
+                "subtopics": []
+              },
+              {
+                "name": "Refraction of Light",
+                "subtopics": []
+              },
+              {
+                "name": "Mirrors & Lenses",
+                "subtopics": []
+              },
+              {
+                "name": "Human Eye",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚡ Electricity",
+            "topics": [
+              {
+                "name": "Electric Current",
+                "subtopics": []
+              },
+              {
+                "name": "Voltage & Resistance",
+                "subtopics": []
+              },
+              {
+                "name": "Ohm’s Law",
+                "subtopics": []
+              },
+              {
+                "name": "Series & Parallel Circuits",
+                "subtopics": []
+              },
+              {
+                "name": "Electric Power",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧲 Magnetism",
+            "topics": [
+              {
+                "name": "Magnetic Field",
+                "subtopics": []
+              },
+              {
+                "name": "Properties of Magnet",
+                "subtopics": []
+              },
+              {
+                "name": "Electromagnetism",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚙️ Modern Physics",
+            "topics": [
+              {
+                "name": "Atom & Nuclear Structure",
+                "subtopics": []
+              },
+              {
+                "name": "Radioactivity",
+                "subtopics": []
+              },
+              {
+                "name": "Nuclear Energy",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "📡 Electronics",
+            "topics": [
+              {
+                "name": "Conductors & Insulators",
+                "subtopics": []
+              },
+              {
+                "name": "Semiconductors",
+                "subtopics": []
+              },
+              {
+                "name": "Diodes & Transistors (basic)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🚀 Miscellaneous",
+            "topics": [
+              {
+                "name": "Everyday Physics",
+                "subtopics": []
+              },
+              {
+                "name": "Important Discoveries & Scientists",
+                "subtopics": []
+              },
+              {
+                "name": "Applications in Daily Life",
+                "subtopics": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chemistry",
+        "chapters": [
+          {
+            "name": "🧪 Basic Concepts of Chemistry",
+            "topics": [
+              {
+                "name": "Matter (Solid, Liquid, Gas)",
+                "subtopics": []
+              },
+              {
+                "name": "Physical & Chemical Changes",
+                "subtopics": []
+              },
+              {
+                "name": "Elements, Compounds, Mixtures",
+                "subtopics": []
+              },
+              {
+                "name": "Atoms & Molecules",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚛️ Structure of Atom",
+            "topics": [
+              {
+                "name": "Atomic Structure",
+                "subtopics": []
+              },
+              {
+                "name": "Protons, Neutrons, Electrons",
+                "subtopics": []
+              },
+              {
+                "name": "Atomic Number & Mass Number",
+                "subtopics": []
+              },
+              {
+                "name": "Electronic Configuration",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧾 Periodic Table",
+            "topics": [
+              {
+                "name": "Modern Periodic Table",
+                "subtopics": []
+              },
+              {
+                "name": "Periods & Groups",
+                "subtopics": []
+              },
+              {
+                "name": "Periodic Trends:",
+                "subtopics": [
+                  {
+                    "name": "o\tAtomic Size"
+                  },
+                  {
+                    "name": "o\tValency"
+                  },
+                  {
+                    "name": "o\tMetallic & Non-metallic Nature"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "🔗 Chemical Bonding",
+            "topics": [
+              {
+                "name": "Ionic Bond",
+                "subtopics": []
+              },
+              {
+                "name": "Covalent Bond",
+                "subtopics": []
+              },
+              {
+                "name": "Metallic Bond",
+                "subtopics": []
+              },
+              {
+                "name": "Properties of Compounds",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚖️ Chemical Reactions",
+            "topics": [
+              {
+                "name": "Types of Reactions:",
+                "subtopics": [
+                  {
+                    "name": "o\tCombination"
+                  },
+                  {
+                    "name": "o\tDecomposition"
+                  },
+                  {
+                    "name": "o\tDisplacement"
+                  },
+                  {
+                    "name": "o\tDouble Displacement"
+                  }
+                ]
+              },
+              {
+                "name": "Balancing Equations",
+                "subtopics": []
+              },
+              {
+                "name": "Oxidation & Reduction",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧪 Acids, Bases & Salts",
+            "topics": [
+              {
+                "name": "Properties of Acids & Bases",
+                "subtopics": []
+              },
+              {
+                "name": "pH Scale",
+                "subtopics": []
+              },
+              {
+                "name": "Indicators",
+                "subtopics": []
+              },
+              {
+                "name": "Common Salts",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🔥 Metals & Non-Metals",
+            "topics": [
+              {
+                "name": "Physical & Chemical Properties",
+                "subtopics": []
+              },
+              {
+                "name": "Reactivity Series",
+                "subtopics": []
+              },
+              {
+                "name": "Uses of Metals",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧴 Carbon & Its Compounds",
+            "topics": [
+              {
+                "name": "Organic Chemistry Basics",
+                "subtopics": []
+              },
+              {
+                "name": "Hydrocarbons",
+                "subtopics": []
+              },
+              {
+                "name": "Functional Groups",
+                "subtopics": []
+              },
+              {
+                "name": "Uses (Fuel, Plastics, etc.)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚗️ States of Matter",
+            "topics": [
+              {
+                "name": "Solid, Liquid, Gas",
+                "subtopics": []
+              },
+              {
+                "name": "Interconversion",
+                "subtopics": []
+              },
+              {
+                "name": "Gas Laws (basic idea)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚡ Electrochemistry (Basic)",
+            "topics": [
+              {
+                "name": "Electrolysis",
+                "subtopics": []
+              },
+              {
+                "name": "Conductors & Electrolytes",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "☢️ Nuclear Chemistry",
+            "topics": [
+              {
+                "name": "Radioactivity",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Radiation (Alpha, Beta, Gamma)",
+                "subtopics": []
+              },
+              {
+                "name": "Uses of Radioisotopes",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧼 Everyday Chemistry",
+            "topics": [
+              {
+                "name": "Soaps & Detergents",
+                "subtopics": []
+              },
+              {
+                "name": "Medicines",
+                "subtopics": []
+              },
+              {
+                "name": "Fertilizers",
+                "subtopics": []
+              },
+              {
+                "name": "Polymers & Plastics",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌍 Environmental Chemistry",
+            "topics": [
+              {
+                "name": "Air Pollution",
+                "subtopics": []
+              },
+              {
+                "name": "Water Pollution",
+                "subtopics": []
+              },
+              {
+                "name": "Ozone Layer",
+                "subtopics": []
+              },
+              {
+                "name": "Greenhouse Effect",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧩 Miscellaneous",
+            "topics": [
+              {
+                "name": "Important Compounds (NaCl, H₂SO₄, etc.)",
+                "subtopics": []
+              },
+              {
+                "name": "Common Chemical Names",
+                "subtopics": []
+              },
+              {
+                "name": "Discoveries & Scientists",
+                "subtopics": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Biology",
+        "chapters": [
+          {
+            "name": "🧪 Basic Concepts of Biology",
+            "topics": [
+              {
+                "name": "Living vs Non-living",
+                "subtopics": []
+              },
+              {
+                "name": "Characteristics of Life",
+                "subtopics": []
+              },
+              {
+                "name": "Cell Theory",
+                "subtopics": []
+              },
+              {
+                "name": "Prokaryotic & Eukaryotic Cells",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🔬 Cell Structure & Function",
+            "topics": [
+              {
+                "name": "Cell Organelles:",
+                "subtopics": [
+                  {
+                    "name": "o\tNucleus"
+                  },
+                  {
+                    "name": "o\tMitochondria"
+                  },
+                  {
+                    "name": "o\tRibosome"
+                  },
+                  {
+                    "name": "o\tEndoplasmic Reticulum"
+                  },
+                  {
+                    "name": "o\tGolgi Body"
+                  }
+                ]
+              },
+              {
+                "name": "Cell Division:",
+                "subtopics": [
+                  {
+                    "name": "o\tMitosis"
+                  },
+                  {
+                    "name": "o\tMeiosis"
+                  }
+                ]
+              },
+              {
+                "name": "Pant vs animal Cell",
+                "subtopics": []
+              },
+              {
+                "name": "DNA Replication in Animals",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Plant Tissue and animal Tissue",
+            "topics": [
+              {
+                "name": "Plant Tissue",
+                "subtopics": []
+              },
+              {
+                "name": "Photosynthesis",
+                "subtopics": []
+              },
+              {
+                "name": "Respiration in Plants",
+                "subtopics": []
+              },
+              {
+                "name": "Transpiration",
+                "subtopics": []
+              },
+              {
+                "name": "Plant Hormones",
+                "subtopics": []
+              },
+              {
+                "name": "Animal Tissue",
+                "subtopics": []
+              },
+              {
+                "name": "Blood",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Plant Kingdom and Animal Kingdom",
+            "topics": [
+              {
+                "name": "Classification of kingdom",
+                "subtopics": []
+              },
+              {
+                "name": "Kingdom Monera",
+                "subtopics": []
+              },
+              {
+                "name": "Kingdom Protista",
+                "subtopics": []
+              },
+              {
+                "name": "Fungi",
+                "subtopics": []
+              },
+              {
+                "name": "Plantae",
+                "subtopics": []
+              },
+              {
+                "name": "Animalia",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Nervous System",
+            "topics": [
+              {
+                "name": "Central Nervous System",
+                "subtopics": []
+              },
+              {
+                "name": "Human Brain",
+                "subtopics": []
+              },
+              {
+                "name": "Spinal cord",
+                "subtopics": []
+              },
+              {
+                "name": "Peripheral Nervous System",
+                "subtopics": []
+              },
+              {
+                "name": "Brain diseases",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Hormones and plant Movement",
+            "topics": [
+              {
+                "name": "Glands and hormones",
+                "subtopics": []
+              },
+              {
+                "name": "Plant hormones and movements",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Reproduction",
+            "topics": [
+              {
+                "name": "Asexual Reproduction",
+                "subtopics": []
+              },
+              {
+                "name": "Sexual reproduction plants",
+                "subtopics": []
+              },
+              {
+                "name": "Human reproductive system",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Digestion and Respiration",
+            "topics": [
+              {
+                "name": "Digestive system",
+                "subtopics": []
+              },
+              {
+                "name": "Respiration",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Circulatory system and excretory system",
+            "topics": [
+              {
+                "name": "Circulatory system",
+                "subtopics": []
+              },
+              {
+                "name": "Heart",
+                "subtopics": []
+              },
+              {
+                "name": "Excretory system",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Diseases",
+            "topics": [
+              {
+                "name": "Diseases caused by Virus",
+                "subtopics": []
+              },
+              {
+                "name": "Diseases caused by Bacteria",
+                "subtopics": []
+              },
+              {
+                "name": "Diseases caused by Fungus",
+                "subtopics": []
+              },
+              {
+                "name": "Diseases caused by Protozoa",
+                "subtopics": []
+              },
+              {
+                "name": "Genetic disorder",
+                "subtopics": []
+              },
+              {
+                "name": "Diseases in plants",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Nutrients",
+            "topics": [
+              {
+                "name": "Nutrition in Animals",
+                "subtopics": []
+              },
+              {
+                "name": "Macro and micro",
+                "subtopics": []
+              },
+              {
+                "name": "Nutrition in Plants",
+                "subtopics": []
+              },
+              {
+                "name": "Photosynthesis",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Hereditary and evolution",
+            "topics": [
+              {
+                "name": "Hereditary and variation",
+                "subtopics": []
+              },
+              {
+                "name": "Gregor Mendel’s Experiment",
+                "subtopics": []
+              },
+              {
+                "name": "Skeletal System",
+                "subtopics": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Static GK",
+        "chapters": [
+          {
+            "name": "Classical Dance",
+            "topics": [
+              {
+                "name": "Dance and state",
+                "subtopics": []
+              },
+              {
+                "name": "Famous dancers",
+                "subtopics": []
+              },
+              {
+                "name": "Various Organitions",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Folk Dances of India",
+            "topics": []
+          },
+          {
+            "name": "Census",
+            "topics": []
+          },
+          {
+            "name": "Musical Instruments",
+            "topics": []
+          },
+          {
+            "name": "Gharanas",
+            "topics": [
+              {
+                "name": "Indian classical Music",
+                "subtopics": []
+              },
+              {
+                "name": "Gharanas",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Important Days",
+            "topics": []
+          },
+          {
+            "name": "Books and Authors",
+            "topics": []
+          },
+          {
+            "name": "Sports",
+            "topics": [
+              {
+                "name": "Olympics",
+                "subtopics": []
+              },
+              {
+                "name": "Indian’s performance in Olympics",
+                "subtopics": []
+              },
+              {
+                "name": "Indian Olympic association",
+                "subtopics": []
+              },
+              {
+                "name": "Commonwealth Games",
+                "subtopics": []
+              },
+              {
+                "name": "Asian Games",
+                "subtopics": []
+              },
+              {
+                "name": "Cricket",
+                "subtopics": []
+              },
+              {
+                "name": "Football",
+                "subtopics": []
+              },
+              {
+                "name": "Hockey",
+                "subtopics": []
+              },
+              {
+                "name": "Tennis",
+                "subtopics": []
+              },
+              {
+                "name": "Table tennis",
+                "subtopics": []
+              },
+              {
+                "name": "Badminton",
+                "subtopics": []
+              },
+              {
+                "name": "Ball Badminton",
+                "subtopics": []
+              },
+              {
+                "name": "Basketball",
+                "subtopics": []
+              },
+              {
+                "name": "Kabaddi",
+                "subtopics": []
+              },
+              {
+                "name": "Kho Kho",
+                "subtopics": []
+              },
+              {
+                "name": "Billiards",
+                "subtopics": []
+              },
+              {
+                "name": "Chess",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "International Organisations",
+            "topics": [
+              {
+                "name": "United Nations",
+                "subtopics": []
+              },
+              {
+                "name": "UN Funds and Programmes",
+                "subtopics": []
+              },
+              {
+                "name": "Other Specialised Agencies of the UN",
+                "subtopics": []
+              },
+              {
+                "name": "Regional Organisation",
+                "subtopics": []
+              },
+              {
+                "name": "Organisation and their Headquarters",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "National Organisations",
+            "topics": [
+              {
+                "name": "Science and Research Institutes",
+                "subtopics": []
+              },
+              {
+                "name": "Agriculture Related Institutes",
+                "subtopics": []
+              },
+              {
+                "name": "Defence and Development related institutes",
+                "subtopics": []
+              },
+              {
+                "name": "Medical and Health related institutes",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Festivals of India",
+            "topics": [
+              {
+                "name": "All State festivals of India",
+                "subtopics": []
+              },
+              {
+                "name": "Tribes which Celebrate",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Government Schemes",
+            "topics": [
+              {
+                "name": "Central & State schemes",
+                "subtopics": []
+              },
+              {
+                "name": "Ministries",
+                "subtopics": []
+              },
+              {
+                "name": "Beneficiaries & objectives",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Awards and Honours",
+            "topics": [
+              {
+                "name": "Civilian Awards",
+                "subtopics": []
+              },
+              {
+                "name": "Gallantry Awards",
+                "subtopics": []
+              },
+              {
+                "name": "Sports Awards",
+                "subtopics": []
+              },
+              {
+                "name": "Literary Awards",
+                "subtopics": []
+              },
+              {
+                "name": "Films and Entertainment Awards",
+                "subtopics": []
+              },
+              {
+                "name": "Global Awards",
+                "subtopics": []
+              },
+              {
+                "name": "National Awards",
+                "subtopics": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

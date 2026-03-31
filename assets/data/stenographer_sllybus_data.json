@@ -1,0 +1,4266 @@
+[
+  {
+    "name": "Reasoning",
+    "chapters": [
+      {
+        "name": "🧩 Analogy",
+        "topics": [
+          {
+            "name": "Number Analogy",
+            "subtopics": []
+          },
+          {
+            "name": "Alphabet Analogy",
+            "subtopics": []
+          },
+          {
+            "name": "Word Analogy",
+            "subtopics": []
+          },
+          {
+            "name": "Semantic Analogy",
+            "subtopics": []
+          },
+          {
+            "name": "Figure Analogy",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔢 Classification (Odd One Out)",
+        "topics": [
+          {
+            "name": "Number Classification",
+            "subtopics": []
+          },
+          {
+            "name": "Alphabet Classification",
+            "subtopics": []
+          },
+          {
+            "name": "Word Classification",
+            "subtopics": []
+          },
+          {
+            "name": "Figure Classification",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔤 Coding-Decoding",
+        "topics": [
+          {
+            "name": "Letter Coding",
+            "subtopics": []
+          },
+          {
+            "name": "Number Coding",
+            "subtopics": []
+          },
+          {
+            "name": "Substitution Coding",
+            "subtopics": []
+          },
+          {
+            "name": "Mixed Coding",
+            "subtopics": []
+          },
+          {
+            "name": "Coding in Sentence",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔗 Series",
+        "topics": [
+          {
+            "name": "Number Series",
+            "subtopics": []
+          },
+          {
+            "name": "Alphabet Series",
+            "subtopics": []
+          },
+          {
+            "name": "Alphanumeric Series",
+            "subtopics": []
+          },
+          {
+            "name": "Missing Term Series",
+            "subtopics": []
+          },
+          {
+            "name": "Wrong Term Series",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧮 Mathematical Operations",
+        "topics": [
+          {
+            "name": "Symbol Replacement",
+            "subtopics": []
+          },
+          {
+            "name": "Equation Balancing",
+            "subtopics": []
+          },
+          {
+            "name": "Wrong Equation Detection",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "📊 Venn Diagram",
+        "topics": [
+          {
+            "name": "2-set Venn Diagram",
+            "subtopics": []
+          },
+          {
+            "name": "3-set Venn Diagram",
+            "subtopics": []
+          },
+          {
+            "name": "Logical Venn Problems",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧠 Syllogism",
+        "topics": [
+          {
+            "name": "Statement & Conclusions",
+            "subtopics": []
+          },
+          {
+            "name": "Possibility Cases",
+            "subtopics": []
+          },
+          {
+            "name": "Venn-based Syllogism",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔄 Blood Relations",
+        "topics": [
+          {
+            "name": "Coded Relations",
+            "subtopics": []
+          },
+          {
+            "name": "Puzzle-based Relations",
+            "subtopics": []
+          },
+          {
+            "name": "Family Tree",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧭 Direction & Distance",
+        "topics": [
+          {
+            "name": "Basic Directions",
+            "subtopics": []
+          },
+          {
+            "name": "Distance Calculation",
+            "subtopics": []
+          },
+          {
+            "name": "Shortest Path",
+            "subtopics": []
+          },
+          {
+            "name": "Direction Puzzle",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧱 Order & Ranking",
+        "topics": [
+          {
+            "name": "Position-based Questions",
+            "subtopics": []
+          },
+          {
+            "name": "Rank Comparison",
+            "subtopics": []
+          },
+          {
+            "name": "Arrangement-based Ranking",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🪑 Seating Arrangement",
+        "topics": [
+          {
+            "name": "Linear Arrangement",
+            "subtopics": []
+          },
+          {
+            "name": "Circular Arrangement",
+            "subtopics": []
+          },
+          {
+            "name": "Mixed Arrangement",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "📅 Calendar",
+        "topics": [
+          {
+            "name": "Odd Days Concept",
+            "subtopics": []
+          },
+          {
+            "name": "Day Calculation",
+            "subtopics": []
+          },
+          {
+            "name": "Leap Year",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "⏰ Clock",
+        "topics": [
+          {
+            "name": "Angle Between Hands",
+            "subtopics": []
+          },
+          {
+            "name": "Time Calculation",
+            "subtopics": []
+          },
+          {
+            "name": "Mirror Clock",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔍 Statement & Conclusion / Assumption",
+        "topics": [
+          {
+            "name": "Statement & Conclusion",
+            "subtopics": []
+          },
+          {
+            "name": "Statement & Assumption",
+            "subtopics": []
+          },
+          {
+            "name": "Statement & Argument",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧠 Decision Making",
+        "topics": [
+          {
+            "name": "Situation-based Questions",
+            "subtopics": []
+          },
+          {
+            "name": "Logical Decision Problems",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔄 Input-Output (New Pattern)",
+        "topics": [
+          {
+            "name": "Machine-based Arrangement",
+            "subtopics": []
+          },
+          {
+            "name": "Step-wise Logic",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔢 Number Puzzle",
+        "topics": [
+          {
+            "name": "Missing Numbers",
+            "subtopics": []
+          },
+          {
+            "name": "Pattern-based Puzzle",
+            "subtopics": []
+          },
+          {
+            "name": "Grid Puzzle",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔷 Non-Verbal Reasoning",
+        "topics": [
+          {
+            "name": "Figure Series",
+            "subtopics": []
+          },
+          {
+            "name": "Complete the Series",
+            "subtopics": []
+          },
+          {
+            "name": "Missing Figure",
+            "subtopics": []
+          },
+          {
+            "name": "Mirror & Water Image",
+            "subtopics": []
+          },
+          {
+            "name": "Mirror Image",
+            "subtopics": []
+          },
+          {
+            "name": "Water Image",
+            "subtopics": []
+          },
+          {
+            "name": "Paper Folding & Cutting",
+            "subtopics": []
+          },
+          {
+            "name": "Hole Punching",
+            "subtopics": []
+          },
+          {
+            "name": "Fold Patterns",
+            "subtopics": []
+          },
+          {
+            "name": "Embedded Figures",
+            "subtopics": []
+          },
+          {
+            "name": "Hidden Figures",
+            "subtopics": []
+          },
+          {
+            "name": "Figure Counting",
+            "subtopics": []
+          },
+          {
+            "name": "Counting Shapes",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "Cube & Dice",
+        "topics": [
+          {
+            "name": "Open Dice",
+            "subtopics": []
+          },
+          {
+            "name": "Closed Dice",
+            "subtopics": []
+          },
+          {
+            "name": "Cube Painting",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧩 Matrix & Puzzle",
+        "topics": [
+          {
+            "name": "Box Puzzle",
+            "subtopics": []
+          },
+          {
+            "name": "Floor Puzzle",
+            "subtopics": []
+          },
+          {
+            "name": "Scheduling Puzzle",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔀 Miscellaneous",
+        "topics": [
+          {
+            "name": "Alphabet Test",
+            "subtopics": []
+          },
+          {
+            "name": "Word Formation",
+            "subtopics": []
+          },
+          {
+            "name": "Dictionary Order",
+            "subtopics": []
+          },
+          {
+            "name": "Logical Sequence",
+            "subtopics": []
+          },
+          {
+            "name": "Data Sufficiency",
+            "subtopics": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "English",
+    "chapters": [
+      {
+        "name": "📖 Reading Comprehension",
+        "topics": [
+          {
+            "name": "Factual Passages",
+            "subtopics": []
+          },
+          {
+            "name": "Inference-based Questions",
+            "subtopics": []
+          },
+          {
+            "name": "Tone of Passage",
+            "subtopics": []
+          },
+          {
+            "name": "Theme / Central Idea",
+            "subtopics": []
+          },
+          {
+            "name": "Vocabulary-based Questions",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧠 Cloze Test",
+        "topics": [
+          {
+            "name": "Fill in the blanks in a passage",
+            "subtopics": []
+          },
+          {
+            "name": "Grammar-based Cloze",
+            "subtopics": []
+          },
+          {
+            "name": "Vocabulary-based Cloze",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "✏️ Error Detection (Spotting Errors)",
+        "topics": [
+          {
+            "name": "Subject-Verb Agreement",
+            "subtopics": []
+          },
+          {
+            "name": "Tense Errors",
+            "subtopics": []
+          },
+          {
+            "name": "Preposition Errors",
+            "subtopics": []
+          },
+          {
+            "name": "Article Errors",
+            "subtopics": []
+          },
+          {
+            "name": "Pronoun Errors",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔄 Sentence Improvement",
+        "topics": [
+          {
+            "name": "Grammar Correction",
+            "subtopics": []
+          },
+          {
+            "name": "Word Usage",
+            "subtopics": []
+          },
+          {
+            "name": "Phrase Replacement",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔀 Para Jumbles (Sentence Arrangement)",
+        "topics": [
+          {
+            "name": "Rearranging Sentences",
+            "subtopics": []
+          },
+          {
+            "name": "Logical Flow",
+            "subtopics": []
+          },
+          {
+            "name": "Coherence",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔁 Fill in the Blanks",
+        "topics": [
+          {
+            "name": "Single Blank",
+            "subtopics": []
+          },
+          {
+            "name": "Double Blank",
+            "subtopics": []
+          },
+          {
+            "name": "Vocabulary-based",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔤 Vocabulary",
+        "topics": [
+          {
+            "name": "Synonyms",
+            "subtopics": []
+          },
+          {
+            "name": "Antonyms",
+            "subtopics": []
+          },
+          {
+            "name": "One Word Substitution",
+            "subtopics": []
+          },
+          {
+            "name": "Idioms & Phrases",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔡 Spelling Correction",
+        "topics": []
+      },
+      {
+        "name": "📚 Active & Passive Voice",
+        "topics": [
+          {
+            "name": "Conversion Rules",
+            "subtopics": []
+          },
+          {
+            "name": "Tense-based Questions",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🗣️ Direct & Indirect Speech (Narration)",
+        "topics": [
+          {
+            "name": "Statement",
+            "subtopics": []
+          },
+          {
+            "name": "Question",
+            "subtopics": []
+          },
+          {
+            "name": "Order / Request / Exclamation",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔍 Sentence Correction",
+        "topics": [
+          {
+            "name": "Full sentence error correction",
+            "subtopics": []
+          },
+          {
+            "name": "Grammar + Vocabulary combined",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "📊 Phrase Replacement",
+        "topics": [
+          {
+            "name": "Replace incorrect part of sentence",
+            "subtopics": []
+          },
+          {
+            "name": "Improve clarity and correctness",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🧩 Sentence Completion",
+        "topics": [
+          {
+            "name": "Choose correct ending",
+            "subtopics": []
+          },
+          {
+            "name": "Context understanding",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔗 Connectors / Sentence Linking",
+        "topics": [
+          {
+            "name": "Conjunctions",
+            "subtopics": []
+          },
+          {
+            "name": "Transition words",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "📖 Word Usage",
+        "topics": [
+          {
+            "name": "Correct usage in sentence",
+            "subtopics": []
+          },
+          {
+            "name": "Confusing words (affect/effect, etc.)",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔤 Parts of Speech (Grammar Base)",
+        "topics": [
+          {
+            "name": "Noun",
+            "subtopics": []
+          },
+          {
+            "name": "Pronoun",
+            "subtopics": []
+          },
+          {
+            "name": "Verb",
+            "subtopics": []
+          },
+          {
+            "name": "Adjective",
+            "subtopics": []
+          },
+          {
+            "name": "Adverb",
+            "subtopics": []
+          },
+          {
+            "name": "Preposition",
+            "subtopics": []
+          },
+          {
+            "name": "Conjunction",
+            "subtopics": []
+          },
+          {
+            "name": "Interjection",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "⏱️ Tense",
+        "topics": [
+          {
+            "name": "Present, Past, Future",
+            "subtopics": []
+          },
+          {
+            "name": "Simple, Continuous, Perfect",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "⚖️ Subject-Verb Agreement",
+        "topics": [
+          {
+            "name": "Singular/Plural Rules",
+            "subtopics": []
+          },
+          {
+            "name": "Collective Nouns",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "📌 Articles",
+        "topics": [
+          {
+            "name": "A, An, The",
+            "subtopics": []
+          },
+          {
+            "name": "Zero Article",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "🔀 Miscellaneous",
+        "topics": [
+          {
+            "name": "Sentence Formation",
+            "subtopics": []
+          },
+          {
+            "name": "Phrase Meaning",
+            "subtopics": []
+          },
+          {
+            "name": "Word Rearrangement",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "📱 How to Use This in Your App",
+        "topics": []
+      },
+      {
+        "name": "You can divide like:",
+        "topics": []
+      },
+      {
+        "name": "Level 1: Grammar",
+        "topics": [
+          {
+            "name": "Parts of Speech",
+            "subtopics": []
+          },
+          {
+            "name": "Tense",
+            "subtopics": []
+          },
+          {
+            "name": "Articles",
+            "subtopics": []
+          },
+          {
+            "name": "Voice",
+            "subtopics": []
+          },
+          {
+            "name": "Narration",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "Level 2: Vocabulary",
+        "topics": [
+          {
+            "name": "Synonyms",
+            "subtopics": []
+          },
+          {
+            "name": "Antonyms",
+            "subtopics": []
+          },
+          {
+            "name": "Idioms",
+            "subtopics": []
+          },
+          {
+            "name": "One Word Substitution",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "Level 3: Application",
+        "topics": [
+          {
+            "name": "Error Detection",
+            "subtopics": []
+          },
+          {
+            "name": "Fill in the Blanks",
+            "subtopics": []
+          },
+          {
+            "name": "Sentence Improvement",
+            "subtopics": []
+          }
+        ]
+      },
+      {
+        "name": "Level 4: Advanced",
+        "topics": [
+          {
+            "name": "Reading Comprehension",
+            "subtopics": []
+          },
+          {
+            "name": "Cloze Test",
+            "subtopics": []
+          },
+          {
+            "name": "Para Jumbles",
+            "subtopics": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "General Knowledge",
+    "subjects": [
+      {
+        "name": "Geography",
+        "chapters": [
+          {
+            "name": "Solar system",
+            "topics": []
+          },
+          {
+            "name": "🌎 Physical Geography (World)",
+            "topics": [
+              {
+                "name": "Earth Basics",
+                "subtopics": []
+              },
+              {
+                "name": "Shape & Size of Earth",
+                "subtopics": []
+              },
+              {
+                "name": "Rotation & Revolution",
+                "subtopics": []
+              },
+              {
+                "name": "Latitudes & Longitudes",
+                "subtopics": []
+              },
+              {
+                "name": "Time Zones",
+                "subtopics": []
+              },
+              {
+                "name": "Interior of Earth",
+                "subtopics": []
+              },
+              {
+                "name": "Crust, Mantle, Core",
+                "subtopics": []
+              },
+              {
+                "name": "Rocks (Igneous, Sedimentary, Metamorphic)",
+                "subtopics": []
+              },
+              {
+                "name": "Minerals",
+                "subtopics": []
+              },
+              {
+                "name": "Landforms",
+                "subtopics": []
+              },
+              {
+                "name": "Mountains (Fold, Block, Volcanic)",
+                "subtopics": []
+              },
+              {
+                "name": "Plateaus",
+                "subtopics": []
+              },
+              {
+                "name": "Plains",
+                "subtopics": []
+              },
+              {
+                "name": "Deserts",
+                "subtopics": []
+              },
+              {
+                "name": "Volcano & Earthquakes",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Volcanoes",
+                "subtopics": []
+              },
+              {
+                "name": "Causes of Earthquakes",
+                "subtopics": []
+              },
+              {
+                "name": "Seismic Zones",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌬️ Climatology (Atmosphere)",
+            "topics": [
+              {
+                "name": "Layers of Atmosphere",
+                "subtopics": []
+              },
+              {
+                "name": "Temperature & Pressure Belts",
+                "subtopics": []
+              },
+              {
+                "name": "Winds (Trade, Westerlies, Local Winds)",
+                "subtopics": []
+              },
+              {
+                "name": "Cyclones & Anticyclones",
+                "subtopics": []
+              },
+              {
+                "name": "Monsoon System",
+                "subtopics": []
+              },
+              {
+                "name": "Rainfall Types (Orographic, Convectional, Cyclonic)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌊 Oceanography",
+            "topics": [
+              {
+                "name": "Oceans of the World",
+                "subtopics": []
+              },
+              {
+                "name": "Ocean Currents (Warm & Cold)",
+                "subtopics": []
+              },
+              {
+                "name": "Tides (High & Low)",
+                "subtopics": []
+              },
+              {
+                "name": "Waves",
+                "subtopics": []
+              },
+              {
+                "name": "Coral Reefs",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌱 Biogeography",
+            "topics": [
+              {
+                "name": "Biosphere",
+                "subtopics": []
+              },
+              {
+                "name": "Ecosystem",
+                "subtopics": []
+              },
+              {
+                "name": "Food Chain & Food Web",
+                "subtopics": []
+              },
+              {
+                "name": "Natural Vegetation",
+                "subtopics": []
+              },
+              {
+                "name": "Wildlife",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Indian Geography",
+            "topics": [
+              {
+                "name": "Physiography of India",
+                "subtopics": []
+              },
+              {
+                "name": "Himalayan Mountains",
+                "subtopics": []
+              },
+              {
+                "name": "Northern Plains",
+                "subtopics": []
+              },
+              {
+                "name": "Peninsular Plateau",
+                "subtopics": []
+              },
+              {
+                "name": "Thar Desert",
+                "subtopics": []
+              },
+              {
+                "name": "Coastal Plains",
+                "subtopics": []
+              },
+              {
+                "name": "Islands",
+                "subtopics": []
+              },
+              {
+                "name": "Indian Rivers",
+                "subtopics": []
+              },
+              {
+                "name": "Himalayan Rivers (Ganga, Brahmaputra)",
+                "subtopics": []
+              },
+              {
+                "name": "Peninsular Rivers (Godavari, Krishna, Kaveri)",
+                "subtopics": []
+              },
+              {
+                "name": "River Projects & Dams",
+                "subtopics": []
+              },
+              {
+                "name": "Climate of India",
+                "subtopics": []
+              },
+              {
+                "name": "Monsoon Mechanism",
+                "subtopics": []
+              },
+              {
+                "name": "Seasons in India",
+                "subtopics": []
+              },
+              {
+                "name": "Rainfall Distribution",
+                "subtopics": []
+              },
+              {
+                "name": "Soil in India",
+                "subtopics": []
+              },
+              {
+                "name": "Alluvial Soil",
+                "subtopics": []
+              },
+              {
+                "name": "Black Soil",
+                "subtopics": []
+              },
+              {
+                "name": "Red Soil",
+                "subtopics": []
+              },
+              {
+                "name": "Laterite Soil",
+                "subtopics": []
+              },
+              {
+                "name": "Desert Soil",
+                "subtopics": []
+              },
+              {
+                "name": "Natural Vegetation of India",
+                "subtopics": []
+              },
+              {
+                "name": "Forest Types",
+                "subtopics": []
+              },
+              {
+                "name": "National Parks & Wildlife Sanctuaries",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌾 Agriculture",
+            "topics": [
+              {
+                "name": "Types of Farming",
+                "subtopics": []
+              },
+              {
+                "name": "Cropping Seasons (Kharif, Rabi, Zaid)",
+                "subtopics": []
+              },
+              {
+                "name": "Major Crops:",
+                "subtopics": [
+                  {
+                    "name": "o\tRice"
+                  },
+                  {
+                    "name": "o\tWheat"
+                  },
+                  {
+                    "name": "o\tCotton"
+                  },
+                  {
+                    "name": "o\tTea"
+                  },
+                  {
+                    "name": "o\tCoffee"
+                  }
+                ]
+              },
+              {
+                "name": "Green Revolution",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏭 Industries",
+            "topics": [
+              {
+                "name": "Types of Industries",
+                "subtopics": []
+              },
+              {
+                "name": "Major Industries in India",
+                "subtopics": []
+              },
+              {
+                "name": "Industrial Regions",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🚆 Transport & Communication",
+            "topics": [
+              {
+                "name": "Roadways",
+                "subtopics": []
+              },
+              {
+                "name": "Railways",
+                "subtopics": []
+              },
+              {
+                "name": "Airways",
+                "subtopics": []
+              },
+              {
+                "name": "Waterways",
+                "subtopics": []
+              },
+              {
+                "name": "Communication Systems",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "👥 Population",
+            "topics": [
+              {
+                "name": "Population Distribution",
+                "subtopics": []
+              },
+              {
+                "name": "Density",
+                "subtopics": []
+              },
+              {
+                "name": "Growth Rate",
+                "subtopics": []
+              },
+              {
+                "name": "Census Data",
+                "subtopics": []
+              },
+              {
+                "name": "Migration",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🗺️ World Geography (Important for SSC)",
+            "topics": [
+              {
+                "name": "Continents & Oceans",
+                "subtopics": []
+              },
+              {
+                "name": "Important Countries & Capitals",
+                "subtopics": []
+              },
+              {
+                "name": "Important Rivers (Nile, Amazon, Yangtze)",
+                "subtopics": []
+              },
+              {
+                "name": "Deserts & Mountains (Sahara, Andes, Rockies)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧭 Map-Based Questions",
+            "topics": [
+              {
+                "name": "India Map",
+                "subtopics": []
+              },
+              {
+                "name": "World Map",
+                "subtopics": []
+              },
+              {
+                "name": "Location-based Questions",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🔥 Miscellaneous",
+            "topics": [
+              {
+                "name": "Environmental Issues",
+                "subtopics": []
+              },
+              {
+                "name": "Climate Change",
+                "subtopics": []
+              },
+              {
+                "name": "Global Warming",
+                "subtopics": []
+              },
+              {
+                "name": "Natural Resources",
+                "subtopics": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "History",
+        "subjects": [
+          {
+            "name": "Ancient History",
+            "chapters": [
+              {
+                "name": "🧬 Prehistoric Period",
+                "topics": [
+                  {
+                    "name": "Paleolithic Age (Old Stone Age)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Mesolithic Age (Middle Stone Age)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Neolithic Age (New Stone Age)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chalcolithic Age (Copper Age)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Tools, lifestyle, art (cave paintings)",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏙️ Indus Valley Civilization (Harappan Civilization)",
+                "topics": [
+                  {
+                    "name": "Major Sites (Harappa, Mohenjo-daro, Lothal, Kalibangan)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Town Planning",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Drainage System",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Economy & Trade",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Script & Seals",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Religion & Culture",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "📜 Vedic Period",
+                "topics": [
+                  {
+                    "name": "Early Vedic Period",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sub division of Vedas",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Upanishad",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Vedangas",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rigvedic Society",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Tribal Structure",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Religion & Gods",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Later Vedic Period",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Social Changes (Varna System)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Agriculture & Economy",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Political Structure",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🧘‍♂️ Religious Movements",
+                "topics": [
+                  {
+                    "name": "Buddhism",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Life of Gautama Buddha",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Symbols of Buddha’s Life",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Four Noble Truths",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Eightfold Path",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Buddhist Councils",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sects of Buddhism",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Buddhist Stupas and monasteries",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Parts of stupa",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Jainism",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Life of Mahavira",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Teachings",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Jain Councils",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏛️ Mahajanapadas & Rise of Magadha",
+                "topics": [
+                  {
+                    "name": "16 Mahajanapadas and their Capital",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Haryanka Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Shishuga Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Nanda Dynasty",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "⚔️ Mauryan Empire",
+                "topics": [
+                  {
+                    "name": "Chandragupta Maurya",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chanakya",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Economy",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Ashoka",
+                "topics": [
+                  {
+                    "name": "Life of Ashoka",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Kalinga War",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Dhamma Policy",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rock & Pillar Edicts",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Inscriptions",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Tax System, officers, courts, Society",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏺 Post-Mauryan Period",
+                "topics": [
+                  {
+                    "name": "Shunga Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Kanva Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Satavahana Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Indo-Greeks",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Saka",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Kushan Empire – Polity, culture, literature, science",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Gandhara and Mathura School of Art",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🎨 Gupta Empire (Golden Age)",
+                "topics": [
+                  {
+                    "name": "Rule of Chandragupta I",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Samudragupta",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Chandragupta II",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Navratnas",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Kumargupta I",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "SkandaguptaI",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Economy",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Art & Culture",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Science & Literature",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Vakataka Dynasty",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏰 Post-Gupta Period",
+                "topics": [
+                  {
+                    "name": "Pushyabhuti/Vardhana Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Harshavardhana",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chalukya Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Badami Chalukya",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Pallava Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rashtrakuta Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Hoysala Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Architecture",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Sangam Age",
+                "topics": [
+                  {
+                    "name": "Pottery, community, Literature, Geography",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Division of Thinais in five parts",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chera, Cholas and Pandyas",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Society",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Tripartite Struggle and Cholas",
+                "topics": [
+                  {
+                    "name": "Pala Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Gurjara Pratihara",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chola Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration, government, land donation",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Cholas temples",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Temple Architecture",
+                    "subtopics": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Medieval History",
+            "chapters": [
+              {
+                "name": "⚔️ Delhi Sultanate (1206–1526)",
+                "topics": []
+              },
+              {
+                "name": "Foreign Invasion",
+                "topics": [
+                  {
+                    "name": "Muhammad bin Qasim",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Mahmud of Ghazni",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Muhammad Ghori",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Prithviraj all battel",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Slave Dynasty (Mamluk)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Qutb-ud-din Aibak",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Iltutmish",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Razia Sultana",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Ghiyasuddin balban",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Qaiqabad",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Important officers",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Khilji Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Alauddin Khilji",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Expeditions",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Khusrau",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Market Reforms",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Military Expansion",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Built",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Tughlaq Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Ghiyasuddin Tuglaq",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Muhammad bin Tughlaq",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administrative Experiments",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Firoz Shah Tughlaq",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Timur Invasion",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sayyid & Lodi Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Important Rulers",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "End of Sultanate",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Central Administration",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🎭 Religious Movements",
+                "topics": [
+                  {
+                    "name": "Bhakti Movement",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Teachings",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Saints like Kabir, Guru Nanak, Tulsidas",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sufi Movement",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sufi Saints",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chishti & Suhrawardi Orders",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sikh Gurus",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏹 Vijayanagar & Bahmani Kingdoms",
+                "topics": []
+              },
+              {
+                "name": "Vijayanagar Empire",
+                "topics": [
+                  {
+                    "name": "Important Dynasty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Harihara I and Bukka",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Saluva Narasimha",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Veer Narasimha/Narasa nayaka",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Krishna Deva Raya",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Culture",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Bahmani Kingdom",
+                "topics": [
+                  {
+                    "name": "Rise & Decline",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Deccan Politics",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏰 Mughal Empire (1526–1707)",
+                "topics": [
+                  {
+                    "name": "Foundation",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Battle of Panipat (1526)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Babur",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Humayun",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sher Shah Suri",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Akbar",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rule of Akbar",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Architecture",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Navratnas",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Mansabdari System",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Religious Policy (Sulh-i-kul)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Jahangir",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Shah Jahan",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Aurangzeb",
+                "topics": []
+              },
+              {
+                "name": "🏛️ Mughal Administration",
+                "topics": [
+                  {
+                    "name": "Central & Provincial Administration",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Mansabdari System",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Revenue System (Zabt System)",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🎨 Art & Culture",
+                "topics": [
+                  {
+                    "name": "Indo-Islamic Architecture",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Mughal Paintings",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Literature & Languages (Persian, Urdu)",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "💰 Economy",
+                "topics": [
+                  {
+                    "name": "Agriculture",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Trade & Commerce",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Crafts & Industries",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "⚔️ Maratha Empire",
+                "topics": [
+                  {
+                    "name": "Rise of Shivaji Maharaj",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Battles and treaty",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sambhaji",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rajaram",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Shahuji",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Balaji Viswanath",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Baji Rao I",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Balaji Baji Rao",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Anglo Martha war",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Administration",
+                    "subtopics": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Modern History",
+            "chapters": [
+              {
+                "name": "🚢 Advent of Europeans in India",
+                "topics": [
+                  {
+                    "name": "Arrival of Vasco da Gama (1498)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Portuguese, Dutch, English, French",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Carnatic Wars",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Trade Centers & Factories",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "⚔️ British Expansion in India",
+                "topics": [
+                  {
+                    "name": "Battles:",
+                    "subtopics": [
+                      {
+                        "name": "o\tBattle of Plassey (1757)"
+                      },
+                      {
+                        "name": "o\tBattle of Buxar (1764)"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Anglo Mysore wars",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Expansion Policies",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Subsidiary Alliance – Lord Wellesley",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Doctrine of Lapse – Lord Dalhousie",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Anglo Sikh war",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Anglo Afghan war",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🏛️ British Administration",
+                "topics": [
+                  {
+                    "name": "Regulating Act (1773)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Pitt’s India Act (1784)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Charter Acts",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Governor-Generals & Viceroys",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Permanent Settlement, ryotwari System, Mahalwari system",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Pre Revolts",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "📜 Revolt of 1857",
+                "topics": [
+                  {
+                    "name": "Causes (Political, Economic, Military)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Leaders and suppressors",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Nature & Consequences",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "GOI Act 1858",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🧠 Social & Religious Reform Movements",
+                "topics": []
+              },
+              {
+                "name": "🏛️ Indian National Movement (INC)",
+                "topics": [
+                  {
+                    "name": "Association formed before Congress",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Formation of INC (1885)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Different Theories",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Sessions of Congress",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Partition of Bengal (1905)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Swadeshi Movement",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Moderates & Extremists",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "India Council Act 1909",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Revolutionary Activities",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Home rule league1916",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "✊ Gandhian Era",
+                "topics": [
+                  {
+                    "name": "Gandhi’s Work in South Africa",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Champaran Satyagraha (1917)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Champaran Agrarian Act 1918",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Ahmedabad mill Strike 1918",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Kheda Movement",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "GOI Act 1919",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Rowlat Satyagraha 1919",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Jallianwala Bagh Massacre 1919",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Khilafat Movement 1919",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Non-Cooperation Movement (1920)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chauri Chaura Incident 1922",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Civil Disobedience Movement (1930)  and Simon Commission",
+                "topics": [
+                  {
+                    "name": "Events around India",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Simon commission 1928",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Factors led to CDM",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "CDM 1930",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Gandhi Irwin Pact 1931",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Round table conference",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "Communal Awards",
+                "topics": []
+              },
+              {
+                "name": "Poona Pacts 1932",
+                "topics": []
+              },
+              {
+                "name": "GOI Act 1935",
+                "topics": []
+              },
+              {
+                "name": "August offer 1940",
+                "topics": []
+              },
+              {
+                "name": "Cripps Mission 1942",
+                "topics": []
+              },
+              {
+                "name": "Quit India Movement 1942",
+                "topics": []
+              },
+              {
+                "name": "Indian National Army (INA)",
+                "topics": []
+              },
+              {
+                "name": "cabinet Mission Plan",
+                "topics": []
+              },
+              {
+                "name": "Mountbatten Plan",
+                "topics": []
+              },
+              {
+                "name": "🔥 Revolutionary Movements",
+                "topics": [
+                  {
+                    "name": "Bhagat Singh",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Chandra Shekhar Azad",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Subhas Chandra Bose",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Indian National Army (INA)",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "📜 Important Acts & Policies",
+                "topics": [
+                  {
+                    "name": "Indian Councils Act (1909)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Government of India Act (1919, 1935)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Cripps Mission",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Cabinet Mission Plan",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🗳️ Towards Independence",
+                "topics": [
+                  {
+                    "name": "Mountbatten Plan",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Indian Independence Act (1947)",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Partition of India",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🎭 Important Organizations",
+                "topics": [
+                  {
+                    "name": "Indian National Congress",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Muslim League",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Revolutionary Groups",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🧾 Important Sessions & Committees",
+                "topics": [
+                  {
+                    "name": "INC Sessions",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Important Resolutions",
+                    "subtopics": []
+                  }
+                ]
+              },
+              {
+                "name": "🧩 Miscellaneous",
+                "topics": [
+                  {
+                    "name": "Important Dates & Events",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Important Personalities",
+                    "subtopics": []
+                  },
+                  {
+                    "name": "Newspapers & Journals",
+                    "subtopics": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Polity",
+        "chapters": [
+          {
+            "name": "📜 Constitution of India",
+            "topics": [
+              {
+                "name": "Making of Constitution",
+                "subtopics": []
+              },
+              {
+                "name": "Sources of Constitution",
+                "subtopics": []
+              },
+              {
+                "name": "Features of Constitution",
+                "subtopics": []
+              },
+              {
+                "name": "Preamble",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏛️ Citizenship",
+            "topics": [
+              {
+                "name": "Types of Citizenship",
+                "subtopics": []
+              },
+              {
+                "name": "Citizenship Act",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚖️ Fundamental Rights",
+            "topics": [
+              {
+                "name": "Right to Equality",
+                "subtopics": []
+              },
+              {
+                "name": "Right to Freedom",
+                "subtopics": []
+              },
+              {
+                "name": "Right against Exploitation",
+                "subtopics": []
+              },
+              {
+                "name": "Right to Freedom of Religion",
+                "subtopics": []
+              },
+              {
+                "name": "Cultural & Educational Rights",
+                "subtopics": []
+              },
+              {
+                "name": "Right to Constitutional Remedies",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🎯 Directive Principles of State Policy (DPSP)",
+            "topics": [
+              {
+                "name": "Socialistic Principles",
+                "subtopics": []
+              },
+              {
+                "name": "Gandhian Principles",
+                "subtopics": []
+              },
+              {
+                "name": "Liberal Principles",
+                "subtopics": []
+              },
+              {
+                "name": "Difference: DPSP vs Fundamental Rights",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "📌 Fundamental Duties",
+            "topics": [
+              {
+                "name": "List of Duties",
+                "subtopics": []
+              },
+              {
+                "name": "Importance & Features",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏛️ Union Government",
+            "topics": [
+              {
+                "name": "President of India",
+                "subtopics": []
+              },
+              {
+                "name": "Election",
+                "subtopics": []
+              },
+              {
+                "name": "Powers (Executive, Legislative, Judicial)",
+                "subtopics": []
+              },
+              {
+                "name": "Emergency Powers",
+                "subtopics": []
+              },
+              {
+                "name": "Vice President",
+                "subtopics": []
+              },
+              {
+                "name": "Role & Functions",
+                "subtopics": []
+              },
+              {
+                "name": "Prime Minister & Council of Ministers",
+                "subtopics": []
+              },
+              {
+                "name": "Appointment",
+                "subtopics": []
+              },
+              {
+                "name": "Powers & Functions",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏛️ Parliament of India",
+            "topics": [
+              {
+                "name": "Lok Sabha",
+                "subtopics": []
+              },
+              {
+                "name": "Rajya Sabha",
+                "subtopics": []
+              },
+              {
+                "name": "Law Making Process",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Bills (Money Bill, Ordinary Bill)",
+                "subtopics": []
+              },
+              {
+                "name": "Parliamentary Committees",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚖️ Judiciary",
+            "topics": [
+              {
+                "name": "Supreme Court",
+                "subtopics": []
+              },
+              {
+                "name": "High Court",
+                "subtopics": []
+              },
+              {
+                "name": "Subordinate Courts",
+                "subtopics": []
+              },
+              {
+                "name": "Judicial Review",
+                "subtopics": []
+              },
+              {
+                "name": "Judicial Activism",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏢 State Government",
+            "topics": [
+              {
+                "name": "Governor",
+                "subtopics": []
+              },
+              {
+                "name": "Powers & Functions",
+                "subtopics": []
+              },
+              {
+                "name": "Chief Minister & Council of Ministers",
+                "subtopics": []
+              },
+              {
+                "name": "Role & Powers",
+                "subtopics": []
+              },
+              {
+                "name": "State Legislature",
+                "subtopics": []
+              },
+              {
+                "name": "Vidhan Sabha",
+                "subtopics": []
+              },
+              {
+                "name": "Vidhan Parishad",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🚨 Emergency Provisions",
+            "topics": [
+              {
+                "name": "National Emergency",
+                "subtopics": []
+              },
+              {
+                "name": "State Emergency (President’s Rule)",
+                "subtopics": []
+              },
+              {
+                "name": "Financial Emergency",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏛️ Constitutional & Non-Constitutional Bodies",
+            "topics": []
+          },
+          {
+            "name": "Constitutional Bodies",
+            "topics": [
+              {
+                "name": "Election Commission",
+                "subtopics": []
+              },
+              {
+                "name": "Finance Commission",
+                "subtopics": []
+              },
+              {
+                "name": "UPSC",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Non-Constitutional Bodies",
+            "topics": [
+              {
+                "name": "NITI Aayog",
+                "subtopics": []
+              },
+              {
+                "name": "CBI",
+                "subtopics": []
+              },
+              {
+                "name": "NHRC",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏘️ Local Government (Panchayati Raj)",
+            "topics": [
+              {
+                "name": "73rd Amendment (Rural)",
+                "subtopics": []
+              },
+              {
+                "name": "74th Amendment (Urban)",
+                "subtopics": []
+              },
+              {
+                "name": "Municipalities",
+                "subtopics": []
+              },
+              {
+                "name": "Panchayats",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🗳️ Elections",
+            "topics": [
+              {
+                "name": "Election Process",
+                "subtopics": []
+              },
+              {
+                "name": "Voting System",
+                "subtopics": []
+              },
+              {
+                "name": "Election Commission Role",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚖️ Amendments of Constitution",
+            "topics": [
+              {
+                "name": "Amendment Procedure",
+                "subtopics": []
+              },
+              {
+                "name": "Important Amendments",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🔄 Centre-State Relations",
+            "topics": [
+              {
+                "name": "Legislative Relations",
+                "subtopics": []
+              },
+              {
+                "name": "Administrative Relations",
+                "subtopics": []
+              },
+              {
+                "name": "Financial Relations",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧩 Miscellaneous",
+            "topics": [
+              {
+                "name": "Important Articles",
+                "subtopics": []
+              },
+              {
+                "name": "Important Parts of Constitution",
+                "subtopics": []
+              },
+              {
+                "name": "Basic Structure Doctrine",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Important Cases e.g. Kesavananda Bharti case etc",
+            "topics": []
+          }
+        ]
+      },
+      {
+        "name": "Economics",
+        "chapters": [
+          {
+            "name": "📊 Basic Concepts of Economics",
+            "topics": [
+              {
+                "name": "Meaning of Economics",
+                "subtopics": []
+              },
+              {
+                "name": "Microeconomics vs Macroeconomics",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Economy (Capitalist, Socialist, Mixed)",
+                "subtopics": []
+              },
+              {
+                "name": "Public and private goods",
+                "subtopics": []
+              },
+              {
+                "name": "Sectors of economy",
+                "subtopics": []
+              },
+              {
+                "name": "Normative and positive economics",
+                "subtopics": []
+              },
+              {
+                "name": "Parallel economy",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🏦 National Income",
+            "topics": [
+              {
+                "name": "Circular flow of Income",
+                "subtopics": []
+              },
+              {
+                "name": "Method of calculation of nation income( GVA, Income, and expenditure method)",
+                "subtopics": []
+              },
+              {
+                "name": "Final goods and intermediate goods",
+                "subtopics": []
+              },
+              {
+                "name": "GDP (Gross Domestic Product)",
+                "subtopics": []
+              },
+              {
+                "name": "GNP (Gross National Product)",
+                "subtopics": []
+              },
+              {
+                "name": "NNP, NDP, Market and factor cost",
+                "subtopics": []
+              },
+              {
+                "name": "Real GDP and Nominal GDP and their relation or GDP deflator",
+                "subtopics": []
+              },
+              {
+                "name": "Per Capita Income",
+                "subtopics": []
+              },
+              {
+                "name": "Purchasing power parity",
+                "subtopics": []
+              },
+              {
+                "name": "Personal Income, Personal Disposable Income",
+                "subtopics": []
+              },
+              {
+                "name": "Potential GDP",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🛒 Market & Demand-Supply",
+            "topics": [
+              {
+                "name": "Production possibility curve",
+                "subtopics": []
+              },
+              {
+                "name": "Utility and its type",
+                "subtopics": []
+              },
+              {
+                "name": "Consumer’s indifference Curve",
+                "subtopics": []
+              },
+              {
+                "name": "Demand & Law of Demand",
+                "subtopics": []
+              },
+              {
+                "name": "Complimentary goods and substitute goods",
+                "subtopics": []
+              },
+              {
+                "name": "Supply, supply curve & Law of Supply",
+                "subtopics": []
+              },
+              {
+                "name": "Elasticity of Demand  and its type",
+                "subtopics": []
+              },
+              {
+                "name": "Market Structures:",
+                "subtopics": [
+                  {
+                    "name": "o\tPerfect Competition"
+                  },
+                  {
+                    "name": "o\tMonopoly"
+                  },
+                  {
+                    "name": "o\tOligopoly"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "📉 Inflation & Unemployment",
+            "topics": [
+              {
+                "name": "Types of Inflation",
+                "subtopics": []
+              },
+              {
+                "name": "Causes & Effects",
+                "subtopics": []
+              },
+              {
+                "name": "Consumer price Index CPI",
+                "subtopics": []
+              },
+              {
+                "name": "Disinflation, Deflation and Stagflation",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Unemployment",
+                "subtopics": []
+              },
+              {
+                "name": "Marginal worker and main worker",
+                "subtopics": []
+              },
+              {
+                "name": "Organised and unorganised sector",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧾 Government Budget & Taxation",
+            "topics": [
+              {
+                "name": "Union Budget",
+                "subtopics": []
+              },
+              {
+                "name": "Function of budget",
+                "subtopics": []
+              },
+              {
+                "name": "Revenue and capital",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Taxes",
+                "subtopics": []
+              },
+              {
+                "name": "Laffer’s Curve",
+                "subtopics": []
+              },
+              {
+                "name": "GST (Goods and Services Tax)",
+                "subtopics": []
+              },
+              {
+                "name": "Fiscal Policy",
+                "subtopics": []
+              },
+              {
+                "name": "Deficit and its type (Budgetary, revenue, Fiscal and Primary deficit)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Monetary Policy",
+            "topics": [
+              {
+                "name": "Balance sheet",
+                "subtopics": []
+              },
+              {
+                "name": "Net demand and time liability",
+                "subtopics": []
+              },
+              {
+                "name": "Monetary policy tools",
+                "subtopics": []
+              },
+              {
+                "name": "Fiscal policy",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "💸 Money & Banking",
+            "topics": [
+              {
+                "name": "Central Bank – Reserve Bank of India",
+                "subtopics": []
+              },
+              {
+                "name": "Monetary Policy (Repo Rate, Reverse Repo, CRR, SLR)",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Money (Fiat, Digital, etc.)",
+                "subtopics": []
+              },
+              {
+                "name": "History of banking system in India",
+                "subtopics": []
+              },
+              {
+                "name": "Other Financial institutions",
+                "subtopics": []
+              },
+              {
+                "name": "Microfinance institutions (MFIs)",
+                "subtopics": []
+              },
+              {
+                "name": "Liquidity",
+                "subtopics": []
+              },
+              {
+                "name": "Money Aggregates (M0, M1, M2, M3, M4)",
+                "subtopics": []
+              },
+              {
+                "name": "Money market, Assets, Bad bank",
+                "subtopics": []
+              },
+              {
+                "name": "International Banking, Regulations",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "👥Balance of payment and Poverty",
+            "topics": [
+              {
+                "name": "Poverty and its type",
+                "subtopics": []
+              },
+              {
+                "name": "Poverty estimation",
+                "subtopics": []
+              },
+              {
+                "name": "Multidimensional poverty Index (MPI)",
+                "subtopics": []
+              },
+              {
+                "name": "Head count ratio (HCR)",
+                "subtopics": []
+              },
+              {
+                "name": "Balance of payment",
+                "subtopics": []
+              },
+              {
+                "name": "Balance of payment crisis (1991)",
+                "subtopics": []
+              },
+              {
+                "name": "LPG reform",
+                "subtopics": []
+              },
+              {
+                "name": "IMF and world bank",
+                "subtopics": []
+              },
+              {
+                "name": "NOSTRO and VOSTRO",
+                "subtopics": []
+              },
+              {
+                "name": "FERA and FEMA",
+                "subtopics": []
+              },
+              {
+                "name": "Depreciation, appreciation, Devaluation, Revaluation",
+                "subtopics": []
+              },
+              {
+                "name": "Lorenz curve",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Five Year plan",
+            "topics": []
+          },
+          {
+            "name": "Industrial policy Resolution (IPR)",
+            "topics": []
+          },
+          {
+            "name": "Green revolution",
+            "topics": []
+          }
+        ]
+      },
+      {
+        "name": "Physics",
+        "chapters": [
+          {
+            "name": "📏 Units & Measurements",
+            "topics": [
+              {
+                "name": "SI Units",
+                "subtopics": []
+              },
+              {
+                "name": "Fundamental & Derived Units",
+                "subtopics": []
+              },
+              {
+                "name": "Measurement Errors",
+                "subtopics": []
+              },
+              {
+                "name": "Dimensional Analysis",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧭 Motion (Kinematics)",
+            "topics": [
+              {
+                "name": "Distance & Displacement",
+                "subtopics": []
+              },
+              {
+                "name": "Speed & Velocity",
+                "subtopics": []
+              },
+              {
+                "name": "Acceleration",
+                "subtopics": []
+              },
+              {
+                "name": "Equations of Motion",
+                "subtopics": []
+              },
+              {
+                "name": "Graphs (Speed-Time, Distance-Time)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚖️ Laws of Motion",
+            "topics": [
+              {
+                "name": "Newton’s Laws of Motion",
+                "subtopics": []
+              },
+              {
+                "name": "Force & Inertia",
+                "subtopics": []
+              },
+              {
+                "name": "Friction",
+                "subtopics": []
+              },
+              {
+                "name": "Momentum",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🔋 Work, Energy & Power",
+            "topics": [
+              {
+                "name": "Work",
+                "subtopics": []
+              },
+              {
+                "name": "Kinetic Energy",
+                "subtopics": []
+              },
+              {
+                "name": "Potential Energy",
+                "subtopics": []
+              },
+              {
+                "name": "Power",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌍 Gravitation",
+            "topics": [
+              {
+                "name": "Universal Law of Gravitation",
+                "subtopics": []
+              },
+              {
+                "name": "Acceleration due to Gravity (g)",
+                "subtopics": []
+              },
+              {
+                "name": "Free Fall",
+                "subtopics": []
+              },
+              {
+                "name": "Weight vs Mass",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌊 Properties of Matter",
+            "topics": [
+              {
+                "name": "Density",
+                "subtopics": []
+              },
+              {
+                "name": "Pressure",
+                "subtopics": []
+              },
+              {
+                "name": "Elasticity",
+                "subtopics": []
+              },
+              {
+                "name": "Surface Tension",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌡️ Heat & Thermodynamics",
+            "topics": [
+              {
+                "name": "Temperature & Heat",
+                "subtopics": []
+              },
+              {
+                "name": "Modes of Heat Transfer (Conduction, Convection, Radiation)",
+                "subtopics": []
+              },
+              {
+                "name": "Laws of Thermodynamics",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🔊 Sound",
+            "topics": [
+              {
+                "name": "Nature of Sound Waves",
+                "subtopics": []
+              },
+              {
+                "name": "Speed of Sound",
+                "subtopics": []
+              },
+              {
+                "name": "Echo",
+                "subtopics": []
+              },
+              {
+                "name": "Frequency & Pitch",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "💡 Light (Optics)",
+            "topics": [
+              {
+                "name": "Reflection of Light",
+                "subtopics": []
+              },
+              {
+                "name": "Refraction of Light",
+                "subtopics": []
+              },
+              {
+                "name": "Mirrors & Lenses",
+                "subtopics": []
+              },
+              {
+                "name": "Human Eye",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚡ Electricity",
+            "topics": [
+              {
+                "name": "Electric Current",
+                "subtopics": []
+              },
+              {
+                "name": "Voltage & Resistance",
+                "subtopics": []
+              },
+              {
+                "name": "Ohm’s Law",
+                "subtopics": []
+              },
+              {
+                "name": "Series & Parallel Circuits",
+                "subtopics": []
+              },
+              {
+                "name": "Electric Power",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧲 Magnetism",
+            "topics": [
+              {
+                "name": "Magnetic Field",
+                "subtopics": []
+              },
+              {
+                "name": "Properties of Magnet",
+                "subtopics": []
+              },
+              {
+                "name": "Electromagnetism",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚙️ Modern Physics",
+            "topics": [
+              {
+                "name": "Atom & Nuclear Structure",
+                "subtopics": []
+              },
+              {
+                "name": "Radioactivity",
+                "subtopics": []
+              },
+              {
+                "name": "Nuclear Energy",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "📡 Electronics",
+            "topics": [
+              {
+                "name": "Conductors & Insulators",
+                "subtopics": []
+              },
+              {
+                "name": "Semiconductors",
+                "subtopics": []
+              },
+              {
+                "name": "Diodes & Transistors (basic)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🚀 Miscellaneous",
+            "topics": [
+              {
+                "name": "Everyday Physics",
+                "subtopics": []
+              },
+              {
+                "name": "Important Discoveries & Scientists",
+                "subtopics": []
+              },
+              {
+                "name": "Applications in Daily Life",
+                "subtopics": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chemistry",
+        "chapters": [
+          {
+            "name": "🧪 Basic Concepts of Chemistry",
+            "topics": [
+              {
+                "name": "Matter (Solid, Liquid, Gas)",
+                "subtopics": []
+              },
+              {
+                "name": "Physical & Chemical Changes",
+                "subtopics": []
+              },
+              {
+                "name": "Elements, Compounds, Mixtures",
+                "subtopics": []
+              },
+              {
+                "name": "Atoms & Molecules",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚛️ Structure of Atom",
+            "topics": [
+              {
+                "name": "Atomic Structure",
+                "subtopics": []
+              },
+              {
+                "name": "Protons, Neutrons, Electrons",
+                "subtopics": []
+              },
+              {
+                "name": "Atomic Number & Mass Number",
+                "subtopics": []
+              },
+              {
+                "name": "Electronic Configuration",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧾 Periodic Table",
+            "topics": [
+              {
+                "name": "Modern Periodic Table",
+                "subtopics": []
+              },
+              {
+                "name": "Periods & Groups",
+                "subtopics": []
+              },
+              {
+                "name": "Periodic Trends:",
+                "subtopics": [
+                  {
+                    "name": "o\tAtomic Size"
+                  },
+                  {
+                    "name": "o\tValency"
+                  },
+                  {
+                    "name": "o\tMetallic & Non-metallic Nature"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "🔗 Chemical Bonding",
+            "topics": [
+              {
+                "name": "Ionic Bond",
+                "subtopics": []
+              },
+              {
+                "name": "Covalent Bond",
+                "subtopics": []
+              },
+              {
+                "name": "Metallic Bond",
+                "subtopics": []
+              },
+              {
+                "name": "Properties of Compounds",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚖️ Chemical Reactions",
+            "topics": [
+              {
+                "name": "Types of Reactions:",
+                "subtopics": [
+                  {
+                    "name": "o\tCombination"
+                  },
+                  {
+                    "name": "o\tDecomposition"
+                  },
+                  {
+                    "name": "o\tDisplacement"
+                  },
+                  {
+                    "name": "o\tDouble Displacement"
+                  }
+                ]
+              },
+              {
+                "name": "Balancing Equations",
+                "subtopics": []
+              },
+              {
+                "name": "Oxidation & Reduction",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧪 Acids, Bases & Salts",
+            "topics": [
+              {
+                "name": "Properties of Acids & Bases",
+                "subtopics": []
+              },
+              {
+                "name": "pH Scale",
+                "subtopics": []
+              },
+              {
+                "name": "Indicators",
+                "subtopics": []
+              },
+              {
+                "name": "Common Salts",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🔥 Metals & Non-Metals",
+            "topics": [
+              {
+                "name": "Physical & Chemical Properties",
+                "subtopics": []
+              },
+              {
+                "name": "Reactivity Series",
+                "subtopics": []
+              },
+              {
+                "name": "Uses of Metals",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧴 Carbon & Its Compounds",
+            "topics": [
+              {
+                "name": "Organic Chemistry Basics",
+                "subtopics": []
+              },
+              {
+                "name": "Hydrocarbons",
+                "subtopics": []
+              },
+              {
+                "name": "Functional Groups",
+                "subtopics": []
+              },
+              {
+                "name": "Uses (Fuel, Plastics, etc.)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚗️ States of Matter",
+            "topics": [
+              {
+                "name": "Solid, Liquid, Gas",
+                "subtopics": []
+              },
+              {
+                "name": "Interconversion",
+                "subtopics": []
+              },
+              {
+                "name": "Gas Laws (basic idea)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "⚡ Electrochemistry (Basic)",
+            "topics": [
+              {
+                "name": "Electrolysis",
+                "subtopics": []
+              },
+              {
+                "name": "Conductors & Electrolytes",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "☢️ Nuclear Chemistry",
+            "topics": [
+              {
+                "name": "Radioactivity",
+                "subtopics": []
+              },
+              {
+                "name": "Types of Radiation (Alpha, Beta, Gamma)",
+                "subtopics": []
+              },
+              {
+                "name": "Uses of Radioisotopes",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧼 Everyday Chemistry",
+            "topics": [
+              {
+                "name": "Soaps & Detergents",
+                "subtopics": []
+              },
+              {
+                "name": "Medicines",
+                "subtopics": []
+              },
+              {
+                "name": "Fertilizers",
+                "subtopics": []
+              },
+              {
+                "name": "Polymers & Plastics",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🌍 Environmental Chemistry",
+            "topics": [
+              {
+                "name": "Air Pollution",
+                "subtopics": []
+              },
+              {
+                "name": "Water Pollution",
+                "subtopics": []
+              },
+              {
+                "name": "Ozone Layer",
+                "subtopics": []
+              },
+              {
+                "name": "Greenhouse Effect",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🧩 Miscellaneous",
+            "topics": [
+              {
+                "name": "Important Compounds (NaCl, H₂SO₄, etc.)",
+                "subtopics": []
+              },
+              {
+                "name": "Common Chemical Names",
+                "subtopics": []
+              },
+              {
+                "name": "Discoveries & Scientists",
+                "subtopics": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Biology",
+        "chapters": [
+          {
+            "name": "🧪 Basic Concepts of Biology",
+            "topics": [
+              {
+                "name": "Living vs Non-living",
+                "subtopics": []
+              },
+              {
+                "name": "Characteristics of Life",
+                "subtopics": []
+              },
+              {
+                "name": "Cell Theory",
+                "subtopics": []
+              },
+              {
+                "name": "Prokaryotic & Eukaryotic Cells",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "🔬 Cell Structure & Function",
+            "topics": [
+              {
+                "name": "Cell Organelles:",
+                "subtopics": [
+                  {
+                    "name": "o\tNucleus"
+                  },
+                  {
+                    "name": "o\tMitochondria"
+                  },
+                  {
+                    "name": "o\tRibosome"
+                  },
+                  {
+                    "name": "o\tEndoplasmic Reticulum"
+                  },
+                  {
+                    "name": "o\tGolgi Body"
+                  }
+                ]
+              },
+              {
+                "name": "Cell Division:",
+                "subtopics": [
+                  {
+                    "name": "o\tMitosis"
+                  },
+                  {
+                    "name": "o\tMeiosis"
+                  }
+                ]
+              },
+              {
+                "name": "Pant vs animal Cell",
+                "subtopics": []
+              },
+              {
+                "name": "DNA Replication in Animals",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Plant Tissue and animal Tissue",
+            "topics": [
+              {
+                "name": "Plant Tissue",
+                "subtopics": []
+              },
+              {
+                "name": "Photosynthesis",
+                "subtopics": []
+              },
+              {
+                "name": "Respiration in Plants",
+                "subtopics": []
+              },
+              {
+                "name": "Transpiration",
+                "subtopics": []
+              },
+              {
+                "name": "Plant Hormones",
+                "subtopics": []
+              },
+              {
+                "name": "Animal Tissue",
+                "subtopics": []
+              },
+              {
+                "name": "Blood",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Plant Kingdom and Animal Kingdom",
+            "topics": [
+              {
+                "name": "Classification of kingdom",
+                "subtopics": []
+              },
+              {
+                "name": "Kingdom Monera",
+                "subtopics": []
+              },
+              {
+                "name": "Kingdom Protista",
+                "subtopics": []
+              },
+              {
+                "name": "Fungi",
+                "subtopics": []
+              },
+              {
+                "name": "Plantae",
+                "subtopics": []
+              },
+              {
+                "name": "Animalia",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Nervous System",
+            "topics": [
+              {
+                "name": "Central Nervous System",
+                "subtopics": []
+              },
+              {
+                "name": "Human Brain",
+                "subtopics": []
+              },
+              {
+                "name": "Spinal cord",
+                "subtopics": []
+              },
+              {
+                "name": "Peripheral Nervous System",
+                "subtopics": []
+              },
+              {
+                "name": "Brain diseases",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Hormones and plant Movement",
+            "topics": [
+              {
+                "name": "Glands and hormones",
+                "subtopics": []
+              },
+              {
+                "name": "Plant hormones and movements",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Reproduction",
+            "topics": [
+              {
+                "name": "Asexual Reproduction",
+                "subtopics": []
+              },
+              {
+                "name": "Sexual reproduction plants",
+                "subtopics": []
+              },
+              {
+                "name": "Human reproductive system",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Digestion and Respiration",
+            "topics": [
+              {
+                "name": "Digestive system",
+                "subtopics": []
+              },
+              {
+                "name": "Respiration",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Circulatory system and excretory system",
+            "topics": [
+              {
+                "name": "Circulatory system",
+                "subtopics": []
+              },
+              {
+                "name": "Heart",
+                "subtopics": []
+              },
+              {
+                "name": "Excretory system",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Diseases",
+            "topics": [
+              {
+                "name": "Diseases caused by Virus",
+                "subtopics": []
+              },
+              {
+                "name": "Diseases caused by Bacteria",
+                "subtopics": []
+              },
+              {
+                "name": "Diseases caused by Fungus",
+                "subtopics": []
+              },
+              {
+                "name": "Diseases caused by Protozoa",
+                "subtopics": []
+              },
+              {
+                "name": "Genetic disorder",
+                "subtopics": []
+              },
+              {
+                "name": "Diseases in plants",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Nutrients",
+            "topics": [
+              {
+                "name": "Nutrition in Animals",
+                "subtopics": []
+              },
+              {
+                "name": "Macro and micro",
+                "subtopics": []
+              },
+              {
+                "name": "Nutrition in Plants",
+                "subtopics": []
+              },
+              {
+                "name": "Photosynthesis",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Hereditary and evolution",
+            "topics": [
+              {
+                "name": "Hereditary and variation",
+                "subtopics": []
+              },
+              {
+                "name": "Gregor Mendel’s Experiment",
+                "subtopics": []
+              },
+              {
+                "name": "Skeletal System",
+                "subtopics": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Static GK",
+        "chapters": [
+          {
+            "name": "Classical Dance",
+            "topics": [
+              {
+                "name": "Dance and state",
+                "subtopics": []
+              },
+              {
+                "name": "Famous dancers",
+                "subtopics": []
+              },
+              {
+                "name": "Various Organitions",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Folk Dances of India",
+            "topics": []
+          },
+          {
+            "name": "Census",
+            "topics": []
+          },
+          {
+            "name": "Musical Instruments",
+            "topics": []
+          },
+          {
+            "name": "Gharanas",
+            "topics": [
+              {
+                "name": "Indian classical Music",
+                "subtopics": []
+              },
+              {
+                "name": "Gharanas",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Important Days",
+            "topics": []
+          },
+          {
+            "name": "Books and Authors",
+            "topics": []
+          },
+          {
+            "name": "Sports",
+            "topics": [
+              {
+                "name": "Olympics",
+                "subtopics": []
+              },
+              {
+                "name": "Indian’s performance in Olympics",
+                "subtopics": []
+              },
+              {
+                "name": "Indian Olympic association",
+                "subtopics": []
+              },
+              {
+                "name": "Commonwealth Games",
+                "subtopics": []
+              },
+              {
+                "name": "Asian Games",
+                "subtopics": []
+              },
+              {
+                "name": "Cricket",
+                "subtopics": []
+              },
+              {
+                "name": "Football",
+                "subtopics": []
+              },
+              {
+                "name": "Hockey",
+                "subtopics": []
+              },
+              {
+                "name": "Tennis",
+                "subtopics": []
+              },
+              {
+                "name": "Table tennis",
+                "subtopics": []
+              },
+              {
+                "name": "Badminton",
+                "subtopics": []
+              },
+              {
+                "name": "Ball Badminton",
+                "subtopics": []
+              },
+              {
+                "name": "Basketball",
+                "subtopics": []
+              },
+              {
+                "name": "Kabaddi",
+                "subtopics": []
+              },
+              {
+                "name": "Kho Kho",
+                "subtopics": []
+              },
+              {
+                "name": "Billiards",
+                "subtopics": []
+              },
+              {
+                "name": "Chess",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "International Organisations",
+            "topics": [
+              {
+                "name": "United Nations",
+                "subtopics": []
+              },
+              {
+                "name": "UN Funds and Programmes",
+                "subtopics": []
+              },
+              {
+                "name": "Other Specialised Agencies of the UN",
+                "subtopics": []
+              },
+              {
+                "name": "Regional Organisation",
+                "subtopics": []
+              },
+              {
+                "name": "Organisation and their Headquarters",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "National Organisations",
+            "topics": [
+              {
+                "name": "Science and Research Institutes",
+                "subtopics": []
+              },
+              {
+                "name": "Agriculture Related Institutes",
+                "subtopics": []
+              },
+              {
+                "name": "Defence and Development related institutes",
+                "subtopics": []
+              },
+              {
+                "name": "Medical and Health related institutes",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Festivals of India",
+            "topics": [
+              {
+                "name": "All State festivals of India",
+                "subtopics": []
+              },
+              {
+                "name": "Tribes which Celebrate",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Government Schemes",
+            "topics": [
+              {
+                "name": "Central & State schemes",
+                "subtopics": []
+              },
+              {
+                "name": "Ministries",
+                "subtopics": []
+              },
+              {
+                "name": "Beneficiaries & objectives",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "name": "Awards and Honours",
+            "topics": [
+              {
+                "name": "Civilian Awards",
+                "subtopics": []
+              },
+              {
+                "name": "Gallantry Awards",
+                "subtopics": []
+              },
+              {
+                "name": "Sports Awards",
+                "subtopics": []
+              },
+              {
+                "name": "Literary Awards",
+                "subtopics": []
+              },
+              {
+                "name": "Films and Entertainment Awards",
+                "subtopics": []
+              },
+              {
+                "name": "Global Awards",
+                "subtopics": []
+              },
+              {
+                "name": "National Awards",
+                "subtopics": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
